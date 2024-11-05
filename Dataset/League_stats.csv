@@ -1,0 +1,12 @@
+league_id,name,avg_buildUpPlaySpeed,avg_buildUpPlayDribbling,avg_buildUpPlayPassing,avg_chanceCreationPassing,avg_chanceCreationCrossing,avg_chanceCreationShooting,avg_defencePressure,avg_defenceAggression,avg_defenceTeamWidth
+1,"Belgium Jupiler League",53.39,16.53,49.95,50.30,53.35,50.04,49.14,51.29,54.30
+1729,"England Premier League",56.21,12.53,54.36,53.04,57.09,52.51,45.79,50.24,51.60
+4769,"France Ligue 1",53.21,17.73,48.46,50.41,53.92,52.79,45.68,48.77,52.14
+7809,"Germany 1. Bundesliga",56.42,17.11,48.90,54.47,52.84,54.35,48.49,51.10,51.12
+10257,"Italy Serie A",54.63,17.58,45.05,51.55,51.75,57.04,42.10,50.18,50.47
+13274,"Netherlands Eredivisie",45.96,13.69,44.70,49.09,51.74,51.85,43.82,46.65,47.76
+15722,"Poland Ekstraklasa",50.08,16.54,48.29,51.71,49.34,57.56,49.60,50.80,54.03
+17642,"Portugal Liga ZON Sagres",48.28,18.98,43.80,54.24,55.46,53.27,41.52,44.86,49.97
+19694,"Scotland Premier League",56.53,17.61,54.77,52.69,56.01,55.52,47.49,50.35,55.01
+21518,"Spain LIGA BBVA",47.37,16.17,45.84,53.17,53.72,54.94,47.83,48.57,55.85
+24558,"Switzerland Super League",51.48,17.06,50.15,52.32,55.58,53.27,45.29,46.34,52.48

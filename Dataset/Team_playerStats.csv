@@ -1,0 +1,1763 @@
+league_id,team_id,Team Name,player_api_id,player_name,Player Rating,Finishing,Acceleration,Interceptions,Marking,Positioning
+15722,1601,Royal Excel Mouscron,196185,Arkadiusz Piech,70,70,90,58,52,81
+15722,1601,Royal Excel Mouscron,69008,Artur Sobiech,73,75,72,54,51,77
+15722,1601,Royal Excel Mouscron,69346,Maciej Iwanski,72,66,65,62,64,69
+15722,1601,Royal Excel Mouscron,13486,Marcin Kikut,70,58,83,57,79,61
+15722,1601,Royal Excel Mouscron,30278,Marek Zienczuk,74,76,66,44,61,72
+1,1773,Watford,78902,Ebrahima Ibou Sawaneh,72,77,85,48,26,71
+1,1773,Watford,164229,Kanu,73,50,84,75,74,28
+1,1773,Watford,39578,Karel Geraerts,72,73,72,75,74,83
+1,1773,Watford,120110,Kim Ojo,75,75,82,42,38,76
+1,1773,Watford,38793,Logan Bailly,76,26,72,47,24,23
+15722,1957,Watford,450742,Bartlomiej Dragowski,71,25,46,25,25,25
+15722,1957,Watford,38999,Euzebiusz Smolarek,76,77,88,78,45,79
+15722,1957,Watford,69541,Kamil Grosicki,76,76,88,48,25,75
+15722,1957,Watford,16511,Konstantin Vassiljev,71,70,68,46,58,72
+15722,1957,Watford,361714,Maciej Gajos,71,69,83,60,59,66
+17642,2033,Watford,96968,Andre Pinto,77,34,71,77,78,69
+17642,2033,Watford,25549,Christian Obodo,79,76,76,78,82,81
+17642,2033,Watford,124127,Fabiano,77,25,47,25,25,25
+17642,2033,Watford,185945,Jardel,80,38,66,82,83,30
+17642,2033,Watford,31725,Mario Alberto Santana,79,73,82,75,54,76
+17642,2033,Watford,191788,Mexer,78,63,73,79,81,74
+15722,2182,Watford,79982,Artjoms Rudnevs,77,85,86,45,40,88
+15722,2182,Watford,30266,Artur Wichniarek,78,87,85,64,21,83
+15722,2182,Watford,274156,Gergo Lovrencsics,73,72,92,61,54,59
+15722,2182,Watford,361403,Karol Linetty,73,65,74,77,63,69
+15722,2182,Watford,206694,Lukasz Teodorczyk,73,74,79,33,13,74
+15722,2182,Watford,74827,Manuel Arboleda,77,46,82,67,78,68
+15722,2182,Watford,121225,Muhamed Keita,73,67,89,46,26,74
+15722,2183,Watford,69008,Artur Sobiech,73,75,72,54,51,77
+15722,2183,Watford,78413,Dimitrije Injac,71,61,68,75,78,62
+15722,2183,Watford,38999,Euzebiusz Smolarek,76,77,88,78,45,79
+15722,2183,Watford,206694,Lukasz Teodorczyk,73,74,79,33,13,74
+15722,2183,Watford,43313,Mariusz Pawelek,71,25,35,45,25,25
+15722,2186,Watford,433675,Bartosz Kapustka,69,63,83,41,55,62
+15722,2186,Watford,154433,Boubacar Diabang Dialiba,70,72,93,55,59,73
+15722,2186,Watford,36050,Erik Jendrisek,73,76,82,67,30,72
+15722,2186,Watford,71063,Giannis Papadopoulos,69,62,77,69,72,65
+15722,2186,Watford,92222,Mateusz Cetnarski,69,66,82,59,38,65
+15722,2186,Watford,159342,Mateusz Klich,72,65,72,59,43,69
+15722,2186,Watford,140932,Milos Kosanovic,72,23,56,76,73,49
+1,4049,Watford,37085,Alan Haydock,64,43,67,74,55,75
+1,4049,Watford,37972,Gregory Dufer,68,66,70,63,41,66
+1,4049,Watford,37976,Jason Vandelannoite,66,49,65,43,65,52
+1,4049,Watford,17703,Jeremy Perbet,73,83,70,63,48,86
+1,4049,Watford,97368,Jusuf Dajic,64,64,59,69,22,57
+17642,4064,Watford,150267,Andre Fontes,70,56,68,56,50,68
+17642,4064,Watford,91473,"Bedi Bastien Buval,29",69,70,63,43,31,66
+17642,4064,Watford,96839,Cris Santos,69,42,76,68,63,63
+17642,4064,Watford,164107,Ludovic,71,61,90,26,25,67
+17642,4064,Watford,45359,Miguel Pedro,69,66,83,27,29,69
+4769,4087,Watford,32937,Christian Poulsen,83,43,78,80,85,86
+4769,4087,Watford,74169,Daniel Wass,77,72,90,77,67,76
+4769,4087,Watford,179522,Dany Nounkeu,77,25,80,76,75,71
+4769,4087,Watford,30749,David Jarolim,79,62,77,82,76,85
+4769,4087,Watford,30739,Gael Givet,85,25,63,74,89,78
+4769,4087,Watford,35408,Jerome Leroy,80,69,67,80,25,75
+4769,4170,Watford,33599,Daniel Moreira,81,87,79,76,32,81
+4769,4170,Watford,26265,Frederic Da Rocha,76,58,68,79,59,78
+4769,4170,Watford,34003,Ludovic Butelle,76,25,58,78,25,76
+4769,4170,Watford,33424,Matt Moussilou,75,83,85,70,32,70
+4769,4170,Watford,134221,Mustapha Yatabare,75,78,73,43,25,77
+10257,6269,GFC Ajaccio,27664,Andrea Caracciolo,75,81,81,71,49,82
+10257,6269,GFC Ajaccio,26257,Daniel Jensen,78,63,67,81,67,86
+10257,6269,GFC Ajaccio,202341,Gabriel Silva,75,62,79,73,72,69
+10257,6269,GFC Ajaccio,39706,Giuseppe Mascara,80,78,82,83,54,81
+10257,6269,GFC Ajaccio,42091,Jedaias Capucho Neves,78,82,84,74,64,80
+1,6351,GFC Ajaccio,150396,Alex,78,72,78,56,58,78
+1,6351,GFC Ajaccio,25751,Danijel Milicevic,76,77,76,38,29,77
+1,6351,GFC Ajaccio,45413,Ervin Zukanovic,74,35,68,78,81,43
+1,6351,GFC Ajaccio,40677,Ibrahima Sory Camara,74,31,76,73,75,75
+1,6351,GFC Ajaccio,38792,Kevin Vandenbergh,73,83,70,58,25,83
+17642,6367,GFC Ajaccio,668820,Amilton,72,69,90,41,27,75
+17642,6367,GFC Ajaccio,209312,Danilo Dias,79,73,84,35,31,73
+17642,6367,GFC Ajaccio,303227,Diego Galo,72,23,55,77,72,28
+17642,6367,GFC Ajaccio,185709,Elio Martins,72,69,74,55,48,77
+17642,6367,GFC Ajaccio,280906,Joaozinho,72,43,78,69,71,69
+4769,6391,GFC Ajaccio,41216,David Ducourtioux,73,65,78,74,76,69
+4769,6391,GFC Ajaccio,41240,Gregory Pujol,77,81,70,78,49,83
+4769,6391,GFC Ajaccio,38951,Issiar Dia,73,79,92,64,40,71
+4769,6391,GFC Ajaccio,36123,Jeremie Brechet,75,41,71,72,77,63
+4769,6391,GFC Ajaccio,25856,Kader Mangane,79,55,65,73,83,72
+17642,6403,GFC Ajaccio,45244,Antunes,76,55,85,79,75,73
+17642,6403,GFC Ajaccio,150064,Baiano,77,57,82,78,80,70
+17642,6403,GFC Ajaccio,242783,Diogo Figueiras,77,41,83,79,76,63
+17642,6403,GFC Ajaccio,101070,Gregory Arnolin,78,52,66,82,73,70
+17642,6403,GFC Ajaccio,470539,Jean Michael Seri,76,52,77,76,74,71
+17642,6403,GFC Ajaccio,163824,Josue,77,71,83,55,56,74
+13274,6413,GFC Ajaccio,209413,Ben Rienstra,72,62,66,70,67,65
+13274,6413,GFC Ajaccio,158841,Darryl Lachman,72,43,75,74,75,38
+13274,6413,GFC Ajaccio,41165,Dirk Marcellis,75,25,66,79,80,70
+13274,6413,GFC Ajaccio,186837,Jesper Drost,73,71,74,62,65,71
+13274,6413,GFC Ajaccio,110214,Joey van den Berg,72,61,67,65,66,65
+13274,6413,GFC Ajaccio,186847,Kamohelo Mokotjo,75,65,76,78,69,63
+13274,6413,GFC Ajaccio,243937,Lars Veldwijk,72,73,66,25,25,71
+13274,6413,GFC Ajaccio,112477,Maikel van der Werff,73,39,70,77,76,30
+13274,6413,GFC Ajaccio,159342,Mateusz Klich,72,65,72,59,43,69
+13274,6413,GFC Ajaccio,244458,Mustafa Saymak,72,67,85,59,41,66
+17642,6421,GFC Ajaccio,45244,Antunes,76,55,85,79,75,73
+17642,6421,GFC Ajaccio,97498,Beto,81,25,60,54,25,35
+17642,6421,GFC Ajaccio,150038,Braga,73,69,77,76,31,73
+17642,6421,GFC Ajaccio,19393,Diego,73,22,32,25,24,16
+17642,6421,GFC Ajaccio,40968,Diogo Valente,73,60,85,73,58,72
+17642,6421,GFC Ajaccio,181357,Fabio Espinho,73,69,75,54,31,73
+17642,6421,GFC Ajaccio,150024,Fernando Alexandre,73,51,72,78,69,72
+13274,6433,GFC Ajaccio,352023,Deniz Tueruec,71,61,77,64,63,60
+13274,6433,GFC Ajaccio,150242,Eloy Room,74,25,64,48,25,58
+13274,6433,GFC Ajaccio,112471,Erik Falkenburg,70,74,71,65,54,76
+13274,6433,GFC Ajaccio,45839,Glynor Plet,71,76,68,29,20,76
+13274,6433,GFC Ajaccio,215005,Jarchinio Antonia,70,60,94,51,27,60
+13274,6433,GFC Ajaccio,21765,Jop van der Linden,72,33,52,77,76,36
+24558,6493,GFC Ajaccio,34319,Aimo Stefano Diana,79,73,81,81,64,82
+24558,6493,GFC Ajaccio,39633,Haouliais Axel Cedric Konan,76,77,82,52,25,61
+24558,6493,GFC Ajaccio,39266,Mark Edusei,70,57,75,74,69,78
+24558,6493,GFC Ajaccio,39492,Maurizio Ciaramitaro,75,68,72,78,53,76
+24558,6493,GFC Ajaccio,30939,Mauro Lustrinelli,73,74,67,73,38,72
+17642,6547,GFC Ajaccio,281864,Aldair,69,61,82,26,20,62
+17642,6547,GFC Ajaccio,150267,Andre Fontes,70,56,68,56,50,68
+17642,6547,GFC Ajaccio,150038,Braga,73,69,77,76,31,73
+17642,6547,GFC Ajaccio,213885,Ezequiel Calvente,69,54,91,25,26,58
+17642,6547,GFC Ajaccio,102716,Helder Tiago Guedes,72,74,69,25,29,75
+13274,6601,GFC Ajaccio,101042,Aaron Meijers,69,63,77,67,67,67
+13274,6601,GFC Ajaccio,150248,Furdjel Narsingh,68,62,86,23,32,63
+13274,6601,GFC Ajaccio,5686,Gerry Koning,65,49,66,69,67,60
+13274,6601,GFC Ajaccio,5044,Jeroen Verhoeven,68,25,60,25,58,25
+13274,6601,GFC Ajaccio,99306,Melvin Platje,67,71,69,35,47,69
+13274,6631,GFC Ajaccio,37185,Andwele Slory,70,67,87,54,27,55
+13274,6631,GFC Ajaccio,171786,Funso Ojo,68,63,76,65,73,67
+13274,6631,GFC Ajaccio,357230,Giovanni Korte,67,66,86,30,22,65
+13274,6631,GFC Ajaccio,422121,Joris van Overeem,71,47,76,57,66,64
+13274,6631,GFC Ajaccio,180784,Marvin Peersman,68,39,70,72,65,45
+24558,7730,GFC Ajaccio,170660,Ante Vukusic,73,74,82,25,25,77
+24558,7730,GFC Ajaccio,94313,Chris Malonga,74,73,90,66,21,79
+24558,7730,GFC Ajaccio,41708,Fabio Coltorti,73,25,64,62,25,67
+24558,7730,GFC Ajaccio,35680,Gabri,74,41,69,81,75,82
+24558,7730,GFC Ajaccio,33424,Matt Moussilou,75,83,85,70,32,70
+13274,7788,GFC Ajaccio,484858,Albert Rusnak,74,66,85,26,35,70
+13274,7788,GFC Ajaccio,25551,Bartholomew Ogbeche,75,78,82,63,31,76
+13274,7788,GFC Ajaccio,37684,Daniel de Ridder,73,69,78,70,51,76
+13274,7788,GFC Ajaccio,240346,Elvis Manu,73,72,90,26,22,74
+13274,7788,GFC Ajaccio,46079,Etienne Reijnen,73,25,59,78,70,58
+4769,7794,GFC Ajaccio,210164,Alphonse Areola,80,25,54,28,25,25
+4769,7794,GFC Ajaccio,33418,Djibril Cisse,84,87,92,56,25,81
+4769,7794,GFC Ajaccio,32578,Jerome Rothen,85,72,80,87,69,79
+4769,7794,GFC Ajaccio,30742,Mickael Landreau,85,25,61,75,25,25
+4769,7794,GFC Ajaccio,31314,Milos Krasic,84,77,91,78,49,84
+4769,7819,SV Darmstadt 98,26275,Alexis Thebaux,77,25,65,45,25,40
+4769,7819,SV Darmstadt 98,26149,Gregory Tafforeau,78,49,88,83,84,70
+4769,7819,SV Darmstadt 98,46757,Julien Feret,79,75,81,71,55,75
+4769,7819,SV Darmstadt 98,46241,Mbaye Niang,77,75,84,53,38,75
+4769,7819,SV Darmstadt 98,319300,N'Golo Kante,79,67,81,90,73,68
+17642,7841,SV Darmstadt 98,88521,Alberto Rodriguez,78,50,77,83,81,75
+17642,7841,SV Darmstadt 98,29590,Fabio Coentrao,82,69,86,80,77,77
+17642,7841,SV Darmstadt 98,40958,Helder Postiga,79,77,83,73,27,83
+17642,7841,SV Darmstadt 98,177126,Jan Oblak,82,25,43,25,25,25
+17642,7841,SV Darmstadt 98,280350,Marcelo,77,24,73,80,78,24
+17642,7842,SV Darmstadt 98,172888,Bruno Cesar,79,78,81,63,47,75
+17642,7842,SV Darmstadt 98,174062,Carlos Eduardo,76,64,75,63,49,76
+17642,7842,SV Darmstadt 98,19264,Evandro Goebel,76,78,78,72,70,77
+17642,7842,SV Darmstadt 98,132898,Jefferson Nascimento,79,61,85,75,78,77
+17642,7842,SV Darmstadt 98,171935,Kleber Pinheiro,77,81,76,31,27,80
+17642,7842,SV Darmstadt 98,267383,Leo Bonatini,76,81,80,23,22,77
+17642,7842,SV Darmstadt 98,96838,Lica,77,74,83,55,44,76
+17642,7844,SV Darmstadt 98,164333,Andre Andre,80,75,76,79,63,82
+17642,7844,SV Darmstadt 98,164238,Andre Santos,77,62,78,78,73,72
+17642,7844,SV Darmstadt 98,106013,Bakary Sare,77,62,72,78,75,58
+17642,7844,SV Darmstadt 98,30577,Custodio,77,66,75,80,77,72
+17642,7844,SV Darmstadt 98,101070,Gregory Arnolin,78,52,66,82,73,70
+17642,7844,SV Darmstadt 98,96838,Lica,77,74,83,55,44,76
+17642,7844,SV Darmstadt 98,40946,Marco Matias,77,78,89,37,26,80
+21518,7869,SV Darmstadt 98,193937,Bruno Zuculini,74,69,84,74,72,77
+21518,7869,SV Darmstadt 98,143795,Fausto Rossi,75,54,76,73,72,67
+21518,7869,SV Darmstadt 98,474680,Federico Nicolas Cartabia,74,65,83,53,45,69
+21518,7869,SV Darmstadt 98,184114,Heldon,75,74,86,31,27,74
+21518,7869,SV Darmstadt 98,37434,Iago Bouzon,79,57,75,74,85,69
+21518,7869,SV Darmstadt 98,282060,Matos,74,78,80,31,25,78
+21518,7869,SV Darmstadt 98,301809,Nabil Ghilas,78,78,76,43,29,79
+21518,7878,SV Darmstadt 98,104986,Andres Fernandez,79,25,68,55,25,25
+21518,7878,SV Darmstadt 98,37548,Carlos Martins,79,73,76,75,61,76
+21518,7878,SV Darmstadt 98,49836,Fabian Orellana,80,75,87,68,25,75
+21518,7878,SV Darmstadt 98,38044,Ikechukwu Uche,81,87,87,52,26,79
+21518,7878,SV Darmstadt 98,301456,Jeison Murillo,79,37,72,78,80,45
+21518,7878,SV Darmstadt 98,43375,Mikel Rico,79,75,71,82,60,74
+24558,7896,SV Darmstadt 98,41975,Alex Valentini,66,25,47,25,25,25
+24558,7896,SV Darmstadt 98,8893,Antoine Rey,65,35,52,75,52,50
+24558,7896,SV Darmstadt 98,186948,Antonini Culina,64,68,74,41,25,53
+24558,7896,SV Darmstadt 98,408104,Christos Donis,65,56,70,56,63,58
+24558,7896,SV Darmstadt 98,8881,Marco Padalino,75,68,85,74,60,74
+10257,7943,SV Darmstadt 98,39170,Andrea Consigli,80,25,62,57,25,65
+10257,7943,SV Darmstadt 98,364520,Domenico Berardi,81,80,87,28,25,80
+10257,7943,SV Darmstadt 98,41497,Federico Peluso,78,48,77,82,79,62
+10257,7943,SV Darmstadt 98,73024,Francesco Acerbi,79,37,69,84,83,25
+10257,7943,SV Darmstadt 98,39376,Matteo Brighi,79,76,81,76,79,75
+1,7947,SV Darmstadt 98,39153,Cedric Berthelin,65,25,33,25,25,25
+1,7947,SV Darmstadt 98,178291,David Destorme,68,67,61,71,34,73
+1,7947,SV Darmstadt 98,39575,Eric Deflandre,69,38,67,65,70,66
+1,7947,SV Darmstadt 98,45413,Ervin Zukanovic,74,35,68,78,81,43
+1,7947,SV Darmstadt 98,131406,Fred,68,30,50,67,70,42
+24558,7955,SV Darmstadt 98,33762,Angel Javier Arizmendi,75,78,82,78,45,83
+24558,7955,SV Darmstadt 98,115160,Brown Ideye,76,81,81,54,26,79
+24558,7955,SV Darmstadt 98,30276,David Navarro,79,60,76,79,80,81
+24558,7955,SV Darmstadt 98,19403,Galatto,75,40,43,37,31,25
+24558,7955,SV Darmstadt 98,170775,Haris Seferovic,77,80,69,36,45,79
+24558,7955,SV Darmstadt 98,43329,Kalu Uche,80,77,86,77,36,74
+17642,7992,SV Darmstadt 98,150320,David Caiado,65,59,75,41,30,61
+17642,7992,SV Darmstadt 98,163665,Fernando Varela,65,32,69,60,66,42
+17642,7992,SV Darmstadt 98,38241,Helder Barbosa,78,73,86,66,43,76
+17642,7992,SV Darmstadt 98,25930,Hugo Leal,74,61,74,75,52,73
+17642,7992,SV Darmstadt 98,42353,Marcelo Lipatin,69,69,62,68,29,70
+15722,8019,SV Darmstadt 98,154950,Adrian Basta,65,45,81,63,66,45
+15722,8019,SV Darmstadt 98,69238,Grzegorz Bonin,65,69,64,45,46,67
+15722,8019,SV Darmstadt 98,281158,Jakub Swierczok,65,68,68,25,25,67
+15722,8019,SV Darmstadt 98,92223,Kamil Pozniak,66,61,75,62,25,70
+15722,8019,SV Darmstadt 98,277466,Lukasz Boguslawski,70,70,78,31,25,73
+15722,8019,SV Darmstadt 98,242306,Marcin Kalkowski,65,35,48,61,67,25
+15722,8019,SV Darmstadt 98,41582,Marquitos,76,72,80,72,59,75
+15722,8020,SV Darmstadt 98,277460,Arkadiusz Milik,77,84,76,36,32,75
+15722,8020,SV Darmstadt 98,47553,Blazey Augustyn,74,44,68,74,75,74
+15722,8020,SV Darmstadt 98,80184,Boris Pandza,69,24,63,64,71,36
+15722,8020,SV Darmstadt 98,72393,Erik Grendel,69,64,81,70,67,67
+15722,8020,SV Darmstadt 98,34037,Ireneusz Jelen,81,89,85,68,31,87
+15722,8020,SV Darmstadt 98,178732,Lukasz Skorupski,73,25,82,25,25,25
+15722,8020,SV Darmstadt 98,114816,Michal Pazdan,69,35,55,69,70,62
+15722,8021,SV Darmstadt 98,196185,Arkadiusz Piech,70,70,90,58,52,81
+15722,8021,SV Darmstadt 98,287341,Filip Starzynski,69,56,72,67,60,68
+15722,8021,SV Darmstadt 98,43138,Jiri Bilek,69,54,63,74,64,71
+15722,8021,SV Darmstadt 98,105535,Kamil Wilczek,70,75,67,56,42,66
+15722,8021,SV Darmstadt 98,25255,Michal Papadopoulos,71,76,74,63,23,68
+15722,8023,SV Darmstadt 98,277313,Adam Gyurcso,69,68,81,34,14,69
+15722,8023,SV Darmstadt 98,12318,Dusan Pernis,70,23,38,37,23,39
+15722,8023,SV Darmstadt 98,69214,Hernani,71,36,73,62,73,53
+15722,8023,SV Darmstadt 98,23930,Jaroslaw Fojut,70,25,66,72,71,60
+15722,8023,SV Darmstadt 98,69229,Marcin Robak,72,76,66,41,30,77
+15722,8024,SV Darmstadt 98,77778,Dudu Paraiba,69,53,77,69,71,54
+15722,8024,SV Darmstadt 98,69227,Marcin Kaczmarek,71,46,84,67,70,55
+15722,8024,SV Darmstadt 98,13486,Marcin Kikut,70,58,83,57,79,61
+15722,8024,SV Darmstadt 98,69229,Marcin Robak,72,76,66,41,30,77
+15722,8024,SV Darmstadt 98,92222,Mateusz Cetnarski,69,66,82,59,38,65
+15722,8025,SV Darmstadt 98,33967,Dalibor Stevanovic,74,65,72,76,57,82
+15722,8025,SV Darmstadt 98,26394,Eric Mouloungui,72,74,82,68,34,73
+15722,8025,SV Darmstadt 98,179818,Flavio Paixao,70,74,75,54,24,74
+15722,8025,SV Darmstadt 98,69256,Jacek Kielb,70,64,81,56,31,65
+15722,8025,SV Darmstadt 98,23930,Jaroslaw Fojut,70,25,66,72,71,60
+15722,8025,SV Darmstadt 98,179817,Marco Paixao,71,78,67,50,23,67
+15722,8025,SV Darmstadt 98,75579,Marian Kelemen,70,25,47,72,25,25
+15722,8025,SV Darmstadt 98,43313,Mariusz Pawelek,71,25,35,45,25,25
+15722,8027,SV Darmstadt 98,206830,Bartlomiej Pawlowski,68,67,84,52,25,57
+15722,8027,SV Darmstadt 98,114822,Grzegorz Sandomierski,68,25,55,36,25,25
+15722,8027,SV Darmstadt 98,34567,Herold Goulon,69,39,49,70,65,45
+15722,8027,SV Darmstadt 98,93431,Igor Lewczuk,68,48,72,66,69,62
+15722,8027,SV Darmstadt 98,280976,Luis Carlos,71,70,93,33,28,68
+15722,8027,SV Darmstadt 98,309348,Michal Maslowski,69,65,72,32,41,61
+15722,8028,SV Darmstadt 98,38395,Alberto Cifuentes,71,25,47,21,25,25
+15722,8028,SV Darmstadt 98,150670,Kamil Glik,82,25,63,86,85,38
+15722,8028,SV Darmstadt 98,27630,Kamil Vacek,72,63,72,70,59,68
+15722,8028,SV Darmstadt 98,16511,Konstantin Vassiljev,71,70,68,46,58,72
+15722,8028,SV Darmstadt 98,69229,Marcin Robak,72,76,66,41,30,77
+15722,8028,SV Darmstadt 98,13410,Mariusz Zganiacz,71,53,76,64,51,60
+15722,8030,SV Darmstadt 98,30526,Daisuke Matsui,75,74,79,72,34,73
+15722,8030,SV Darmstadt 98,13480,Grzegorz Wojtkowiak,72,52,74,77,77,54
+15722,8030,SV Darmstadt 98,190366,Jakub Kosecki,71,69,94,54,36,77
+15722,8030,SV Darmstadt 98,69601,Jakub Wawrzyniak,71,32,79,73,66,67
+15722,8030,SV Darmstadt 98,69227,Marcin Kaczmarek,71,46,84,67,70,55
+15722,8030,SV Darmstadt 98,179817,Marco Paixao,71,78,67,50,23,67
+15722,8030,SV Darmstadt 98,30278,Marek Zienczuk,74,76,66,44,61,72
+15722,8030,SV Darmstadt 98,114215,Mario Maloca,71,40,60,74,72,17
+15722,8030,SV Darmstadt 98,31314,Milos Krasic,84,77,91,78,49,84
+15722,8031,SV Darmstadt 98,154950,Adrian Basta,65,45,81,63,66,45
+15722,8031,SV Darmstadt 98,78537,Adrian Klepczynski,62,30,60,56,61,36
+15722,8031,SV Darmstadt 98,13329,Blazej Telichowski,62,54,65,63,64,60
+15722,8031,SV Darmstadt 98,136540,Krzysztof Krol,62,49,72,64,71,53
+15722,8031,SV Darmstadt 98,115268,Michal Peskovic,66,25,37,25,25,25
+15722,8033,SV Darmstadt 98,68744,Dariusz Pietrasiak,69,35,57,77,64,60
+15722,8033,SV Darmstadt 98,34037,Ireneusz Jelen,81,89,85,68,31,87
+15722,8033,SV Darmstadt 98,433628,Kamil Kurowski,73,66,80,65,52,73
+15722,8033,SV Darmstadt 98,69346,Maciej Iwanski,72,66,65,62,64,69
+15722,8033,SV Darmstadt 98,186968,Mateusz Mozdzen,69,62,80,54,68,69
+19694,8066,SV Darmstadt 98,162549,Aaron Doran,71,69,82,55,23,68
+19694,8066,SV Darmstadt 98,31916,Adam Rooney,71,76,72,25,25,73
+19694,8066,SV Darmstadt 98,177760,Billy McKay,72,77,75,40,25,83
+19694,8066,SV Darmstadt 98,32622,Chris Hogg,71,36,69,68,74,67
+19694,8066,SV Darmstadt 98,32942,Don Cowie,72,62,73,66,66,70
+19694,8066,SV Darmstadt 98,206429,Gil Blumenshtein,72,47,77,74,70,68
+19694,8066,SV Darmstadt 98,180274,Graeme Shinnie,73,23,82,69,74,54
+19694,8066,SV Darmstadt 98,32670,Grant Munro,71,32,52,59,74,54
+4769,8121,SV Darmstadt 98,173955,Abdoul Razzagui Camara,72,72,85,47,25,71
+4769,8121,SV Darmstadt 98,179901,Billy Ketkeophomphone,73,72,84,42,25,76
+4769,8121,SV Darmstadt 98,426612,Cheikh Ndoye,76,72,67,72,72,77
+4769,8121,SV Darmstadt 98,187669,Gilles Sunu,72,70,82,36,29,71
+4769,8121,SV Darmstadt 98,26327,Gregory Bourillon,76,32,60,73,78,78
+4769,8121,SV Darmstadt 98,78411,Ismael Traore,72,25,64,71,74,62
+4769,8121,SV Darmstadt 98,34003,Ludovic Butelle,76,25,58,78,25,76
+7809,8152,SV Darmstadt 98,155534,Bastian Oczipka,75,55,75,74,72,65
+7809,8152,SV Darmstadt 98,106309,Carlos Zambrano,77,50,72,75,78,65
+7809,8152,SV Darmstadt 98,35852,Fin Bartels,75,70,83,61,40,73
+7809,8152,SV Darmstadt 98,30702,Gerald Asamoah,75,72,82,72,56,76
+7809,8152,SV Darmstadt 98,27447,Mathias Hain,76,23,65,52,30,20
+7809,8152,SV Darmstadt 98,36086,Matthias Lehmann,75,69,76,77,71,72
+7809,8152,SV Darmstadt 98,58346,Max Kruse,81,81,75,55,54,84
+7809,8165,SV Darmstadt 98,27438,Andreas Wolf,79,30,71,69,84,79
+7809,8165,SV Darmstadt 98,141145,Daniel Didavi,79,80,77,50,31,81
+7809,8165,SV Darmstadt 98,95082,Eric Maxim Choupo-Moting,79,79,78,42,27,81
+7809,8165,SV Darmstadt 98,178818,Ilkay Guendogan,84,67,85,82,58,77
+7809,8165,SV Darmstadt 98,27440,Marek Mintal,83,88,83,87,22,84
+7809,8177,SV Darmstadt 98,30819,Arne Friedrich,84,39,85,77,86,83
+7809,8177,SV Darmstadt 98,24104,Jaroslav Drobny,82,36,64,77,25,41
+7809,8177,SV Darmstadt 98,30693,Josip Simunic,82,51,69,81,88,85
+7809,8177,SV Darmstadt 98,13518,Lukasz Piszczek,83,68,85,84,81,73
+7809,8177,SV Darmstadt 98,36788,Marko Pantelic,82,88,81,71,25,83
+7809,8178,SV Darmstadt 98,49939,Arturo Vidal,86,79,83,88,83,82
+7809,8178,SV Darmstadt 98,215168,Bernd Leno,84,25,61,27,25,25
+7809,8178,SV Darmstadt 98,70409,Javier Hernandez,83,89,91,62,34,88
+7809,8178,SV Darmstadt 98,208230,Karim Bellarabi,83,75,91,38,28,81
+7809,8178,SV Darmstadt 98,30699,Michael Ballack,87,89,84,84,70,91
+1729,8191,SV Darmstadt 98,24788,Brian Jensen,76,29,53,53,34,26
+1729,8191,SV Darmstadt 98,214426,Danny Ings,76,79,90,39,33,79
+1729,8191,SV Darmstadt 98,23190,David Nugent,78,84,86,71,22,81
+1729,8191,SV Darmstadt 98,46008,Jack Cork,77,57,66,79,71,65
+1729,8191,SV Darmstadt 98,191869,Kieran Trippier,76,54,84,75,77,66
+1729,8191,SV Darmstadt 98,24372,Matthew Taylor,80,80,75,73,72,72
+7809,8194,SV Darmstadt 98,30886,Andrey Voronin,81,86,87,75,33,84
+7809,8194,SV Darmstadt 98,114963,Fabian Giefer,74,25,45,44,25,48
+7809,8194,SV Darmstadt 98,40985,Johannes van den Bergh,73,32,78,70,71,63
+7809,8194,SV Darmstadt 98,147726,Leon Balogun,73,34,69,74,71,56
+7809,8194,SV Darmstadt 98,25644,Martin Latka,74,51,57,72,73,83
+1729,8197,SV Darmstadt 98,30930,Esteban Cambiasso,86,70,83,92,87,93
+1729,8197,SV Darmstadt 98,25818,Gokhan Inler,82,62,76,84,78,85
+1729,8197,SV Darmstadt 98,286119,Jamie Vardy,79,82,91,51,54,83
+1729,8197,SV Darmstadt 98,30633,Mark Schwarzer,81,25,50,68,25,52
+1729,8197,SV Darmstadt 98,23818,Matthew Upson,82,22,80,75,85,78
+1729,8197,SV Darmstadt 98,319300,N'Golo Kante,79,67,81,90,73,68
+1,8203,SV Darmstadt 98,33657,Bjoern Vleminckx,73,83,66,74,32,81
+1,8203,SV Darmstadt 98,148315,Christian Benteke,82,84,82,48,25,81
+1,8203,SV Darmstadt 98,150968,Ivan Obradovic,73,59,82,70,72,68
+1,8203,SV Darmstadt 98,41818,Jean-Francois Gillet,79,51,60,57,25,25
+1,8203,SV Darmstadt 98,38792,Kevin Vandenbergh,73,83,70,58,25,83
+1,8203,SV Darmstadt 98,26612,Mads Junker,75,86,80,65,28,82
+7809,8226,SV Darmstadt 98,121633,David Alaba,85,63,87,86,83,77
+7809,8226,SV Darmstadt 98,35411,Demba Ba,82,85,85,66,42,84
+7809,8226,SV Darmstadt 98,30455,Heurelho Gomes,83,40,65,65,35,86
+7809,8226,SV Darmstadt 98,30693,Josip Simunic,82,51,69,81,88,85
+7809,8226,SV Darmstadt 98,30249,Kevin Kuranyi,83,90,81,74,27,82
+7809,8226,SV Darmstadt 98,147729,Luiz Gustavo,83,46,78,86,80,72
+7809,8226,SV Darmstadt 98,27320,Matthieu Delpierre,82,32,73,77,87,79
+7809,8234,SV Darmstadt 98,145536,Benjamin Huebner,74,25,61,73,76,41
+7809,8234,SV Darmstadt 98,207039,Danilo Soares,72,49,77,68,69,59
+7809,8234,SV Darmstadt 98,176831,Lukas Hinterseer,72,74,66,25,29,72
+7809,8234,SV Darmstadt 98,27550,Marvin Matip,76,40,69,78,75,70
+7809,8234,SV Darmstadt 98,185014,Matthew Leckie,73,72,91,44,25,71
+15722,8242,SV Darmstadt 98,69249,Adam Mojta,66,58,72,54,67,58
+15722,8242,SV Darmstadt 98,68839,Aleksander Kwiek,67,65,72,80,57,63
+15722,8242,SV Darmstadt 98,118346,Filip Luksik,65,45,63,69,68,55
+15722,8242,SV Darmstadt 98,13383,Maciej Korzym,67,64,80,61,44,74
+15722,8242,SV Darmstadt 98,13405,Marcin Malinowski,65,51,56,75,61,55
+15722,8244,SV Darmstadt 98,13349,Antoni Lukasiewicz,68,52,65,62,70,57
+15722,8244,SV Darmstadt 98,69346,Maciej Iwanski,72,66,65,62,64,69
+15722,8244,SV Darmstadt 98,69227,Marcin Kaczmarek,71,46,84,67,70,55
+15722,8244,SV Darmstadt 98,30272,Marcin Mieciel,74,81,71,76,46,71
+15722,8244,SV Darmstadt 98,36640,Marek Saganowski,72,79,72,64,39,78
+15722,8245,SV Darmstadt 98,69611,Artur Jedrzejczyk,72,48,74,75,75,53
+15722,8245,SV Darmstadt 98,92375,Cezary Wilk,72,62,77,79,71,64
+15722,8245,SV Darmstadt 98,69214,Hernani,71,36,73,62,73,53
+15722,8245,SV Darmstadt 98,280976,Luis Carlos,71,70,93,33,28,68
+15722,8245,SV Darmstadt 98,13410,Mariusz Zganiacz,71,53,76,64,51,60
+7809,8262,SV Darmstadt 98,119427,Aytac Sulu,75,43,72,70,74,37
+7809,8262,SV Darmstadt 98,41930,Gyorgy Garics,77,62,81,72,78,77
+7809,8262,SV Darmstadt 98,27352,Jan Rosenthal,74,74,75,64,37,76
+7809,8262,SV Darmstadt 98,115670,Konstantin Rausch,75,61,79,73,72,70
+7809,8262,SV Darmstadt 98,154245,Luca Caldirola,74,30,71,75,75,42
+7809,8262,SV Darmstadt 98,36554,Marcel Heller,74,75,93,51,25,71
+13274,8277,SV Darmstadt 98,71619,Anthony Annan,78,51,83,88,85,83
+13274,8277,SV Darmstadt 98,178765,Davy Proepper,77,69,74,63,64,69
+13274,8277,SV Darmstadt 98,157630,Guram Kashia,77,23,70,85,80,30
+13274,8277,SV Darmstadt 98,30335,Laryea Kingston,80,63,78,67,60,70
+13274,8277,SV Darmstadt 98,267380,Lucas Piazon,77,74,78,32,25,72
+13274,8277,SV Darmstadt 98,150119,Marko Vejinovic,77,60,68,71,64,74
+19694,8284,SV Darmstadt 98,32706,Colin Nish,75,81,54,58,22,74
+19694,8284,SV Darmstadt 98,32449,Darren O'Dea,70,22,67,69,71,67
+19694,8284,SV Darmstadt 98,32829,David Clarkson,72,80,75,62,36,70
+19694,8284,SV Darmstadt 98,37774,Gary Harkins,69,63,73,53,57,67
+19694,8284,SV Darmstadt 98,32618,Kevin Thomson,77,66,73,74,71,79
+7809,8295,SV Darmstadt 98,38206,Alexander Iashvili,75,69,85,74,38,77
+7809,8295,SV Darmstadt 98,25364,Andreas Goerlitz,75,47,77,79,77,76
+7809,8295,SV Darmstadt 98,37381,Christian Eichner,75,42,80,74,74,80
+7809,8295,SV Darmstadt 98,37385,Giovanni Federico,75,83,67,66,39,78
+7809,8295,SV Darmstadt 98,94916,Lars Stindl,80,81,76,74,68,82
+7809,8295,SV Darmstadt 98,36076,Maik Franz,76,38,72,71,76,72
+7809,8295,SV Darmstadt 98,33686,Marco Engelhardt,76,66,71,69,66,76
+7809,8295,SV Darmstadt 98,37377,Markus Miller,80,32,45,54,34,46
+21518,8302,SV Darmstadt 98,33986,Andres Palop,85,25,60,42,25,25
+21518,8302,SV Darmstadt 98,25773,Ivan Rakitic,85,82,75,73,52,80
+21518,8302,SV Darmstadt 98,33991,Jesus Navas,86,72,93,67,37,83
+21518,8302,SV Darmstadt 98,38821,Jose Antonio Reyes,85,79,87,82,24,84
+21518,8302,SV Darmstadt 98,34106,Luis Fabiano,86,94,83,77,46,88
+21518,8305,SV Darmstadt 98,32675,Cata Diaz,83,60,75,81,89,85
+21518,8305,SV Darmstadt 98,33778,Daniel Guiza,83,92,80,69,25,86
+21518,8305,SV Darmstadt 98,75307,Daniel Parejo,82,75,71,75,71,79
+21518,8305,SV Darmstadt 98,38044,Ikechukwu Uche,81,87,87,52,26,79
+21518,8305,SV Darmstadt 98,37461,Jaime Gavilan,82,77,78,85,61,85
+21518,8305,SV Darmstadt 98,33845,Miguel Angel Moya,81,25,48,28,25,25
+21518,8306,SV Darmstadt 98,71498,Javi Varas,78,25,51,43,25,25
+21518,8306,SV Darmstadt 98,33963,Javier Garrido,76,53,76,79,77,74
+21518,8306,SV Darmstadt 98,213729,Jonathan Viera,77,73,84,47,25,77
+21518,8306,SV Darmstadt 98,33761,Juan Carlos Valeron,86,76,81,88,25,85
+21518,8306,SV Darmstadt 98,37510,Momo,75,76,76,64,38,76
+21518,8315,SV Darmstadt 98,33028,Aritz Aduriz,82,86,82,76,47,87
+21518,8315,SV Darmstadt 98,411617,Aymeric Laporte,83,26,71,85,86,35
+21518,8315,SV Darmstadt 98,45749,Benat Etxebarria,82,76,69,77,63,78
+21518,8315,SV Darmstadt 98,33030,Fernando Llorente,83,87,77,77,53,88
+21518,8315,SV Darmstadt 98,30277,Francisco Navarro Yeste,83,86,83,80,55,78
+21518,8315,SV Darmstadt 98,37410,Javier Martinez,85,69,74,86,81,83
+15722,8322,SV Darmstadt 98,33804,"Bartosz Lawa,25",67,62,72,62,50,56
+15722,8322,SV Darmstadt 98,38828,"Ervin Skela,30",72,67,54,73,33,70
+15722,8322,SV Darmstadt 98,40976,Marcelo Moretto,73,12,47,22,10,10
+15722,8322,SV Darmstadt 98,184618,Marciano Bruma,65,21,73,53,64,58
+15722,8322,SV Darmstadt 98,150809,Marcin Budzinski,66,56,64,62,53,63
+1,8342,SV Darmstadt 98,166648,Carlos Bacca,82,88,85,34,25,85
+1,8342,SV Darmstadt 98,33074,Eidur Gudjohnsen,86,88,78,84,42,83
+1,8342,SV Darmstadt 98,39962,Fernando,79,66,76,79,75,83
+1,8342,SV Darmstadt 98,163670,Ivan Perisic,82,81,83,68,36,83
+1,8342,SV Darmstadt 98,14557,Lior Rafaelov,78,76,79,29,25,78
+1,8342,SV Darmstadt 98,185644,Mathew Ryan,78,25,62,25,25,25
+1729,8344,SV Darmstadt 98,33781,Craig Bellamy,82,87,91,77,60,86
+1729,8344,SV Darmstadt 98,150176,Fabio,76,60,85,78,78,77
+1729,8344,SV Darmstadt 98,49970,Gary Medel,81,64,77,86,81,74
+1729,8344,SV Darmstadt 98,30988,Kenwyne Jones,79,84,86,64,50,78
+1729,8344,SV Darmstadt 98,185389,Magnus Wolff Eikrem,76,70,75,68,74,75
+17642,8348,SV Darmstadt 98,29580,Evaldo,75,54,83,76,73,74
+17642,8348,SV Darmstadt 98,362711,Gerso Fernandes,75,66,93,25,25,76
+17642,8348,SV Darmstadt 98,361321,Iuri Medeiros,75,70,87,30,25,76
+17642,8348,SV Darmstadt 98,524434,Joao Palinha,74,38,65,78,72,43
+17642,8348,SV Darmstadt 98,301809,Nabil Ghilas,78,78,76,43,29,79
+7809,8350,SV Darmstadt 98,17312,Anther Yahia,76,44,78,71,74,71
+7809,8350,SV Darmstadt 98,34971,Christian Tiffert,76,68,81,74,55,75
+7809,8350,SV Darmstadt 98,39847,Ivo Ilicevic,77,73,80,67,38,74
+7809,8350,SV Darmstadt 98,69923,Jan Simunek,76,68,71,75,79,76
+7809,8350,SV Darmstadt 98,145550,Kevin Trapp,82,25,56,52,25,49
+7809,8350,SV Darmstadt 98,209430,Konstantinos Fortounis,76,74,79,32,38,73
+7809,8350,SV Darmstadt 98,39000,Martin Amedick,76,30,68,68,75,72
+7809,8357,SV Darmstadt 98,324910,Abdul Rahman Baba,78,49,85,72,73,60
+7809,8357,SV Darmstadt 98,34370,Djiby Fall,75,84,88,54,30,80
+7809,8357,SV Darmstadt 98,179491,Edgar Prib,75,67,80,70,61,75
+7809,8357,SV Darmstadt 98,30702,Gerald Asamoah,75,72,82,72,56,76
+7809,8357,SV Darmstadt 98,237542,Johannes Geis,79,51,73,78,76,73
+7809,8358,SV Darmstadt 98,132844,Admir Mehmedi,77,77,75,42,29,77
+7809,8358,SV Darmstadt 98,33792,Andreas Hinkel,77,51,90,81,85,81
+7809,8358,SV Darmstadt 98,188498,Daniel Caligiuri,78,74,84,51,25,77
+7809,8358,SV Darmstadt 98,159594,Francis Coquelin,79,45,75,84,76,64
+7809,8358,SV Darmstadt 98,303912,Matthias Ginter,77,66,59,81,78,60
+7809,8358,SV Darmstadt 98,58346,Max Kruse,81,81,75,55,54,84
+7809,8358,SV Darmstadt 98,30854,Mike Hanke,78,86,82,60,29,82
+21518,8370,SV Darmstadt 98,19243,Diego Costa,86,90,83,69,28,89
+21518,8370,SV Darmstadt 98,47547,Emiliano Insua,79,61,81,82,81,78
+21518,8370,SV Darmstadt 98,270774,Franco Vazquez,80,79,69,48,44,74
+21518,8370,SV Darmstadt 98,161015,Iago Falque,79,76,85,46,35,76
+21518,8370,SV Darmstadt 98,74747,Javi Fuego,80,70,78,85,75,70
+21518,8370,SV Darmstadt 98,358127,Leo Baptistao,79,78,81,25,25,85
+21518,8370,SV Darmstadt 98,118528,Michu,80,84,70,75,57,85
+21518,8371,SV Darmstadt 98,72541,Cesar Azpilicueta,82,62,83,81,86,69
+21518,8371,SV Darmstadt 98,30907,Jaroslav Plasil,81,70,76,82,70,81
+21518,8371,SV Darmstadt 98,37497,Javier Portillo,80,85,82,80,37,78
+21518,8371,SV Darmstadt 98,38551,Joseba Llorente,81,89,77,70,52,84
+21518,8371,SV Darmstadt 98,38424,Juanfran,81,71,83,83,80,81
+21518,8372,SV Darmstadt 98,34381,Derek Boateng,77,47,82,80,62,74
+21518,8372,SV Darmstadt 98,163971,Didac Vila,76,26,79,79,73,65
+21518,8372,SV Darmstadt 98,170341,Eneko Boveda,76,57,77,76,76,70
+21518,8372,SV Darmstadt 98,33856,Ivan Ramis,77,54,69,76,80,62
+21518,8372,SV Darmstadt 98,37474,Manu del Moral,78,82,82,76,25,81
+21518,8388,SV Darmstadt 98,37433,Antonio Guayre,78,80,80,61,45,70
+21518,8388,SV Darmstadt 98,38136,Carlos Reina Aranda,74,77,77,60,59,75
+21518,8388,SV Darmstadt 98,74435,Domingo Cisma,74,53,77,75,73,66
+21518,8388,SV Darmstadt 98,38550,Jose Javier Barkero,78,73,72,72,69,78
+21518,8388,SV Darmstadt 98,75195,Juan Pablo,77,21,62,47,21,34
+21518,8394,SV Darmstadt 98,30852,Fernando Meira,85,29,77,88,84,87
+21518,8394,SV Darmstadt 98,38700,Florent Sinama-Pongolle,83,85,90,68,29,77
+21518,8394,SV Darmstadt 98,41464,Francisco Pavon,83,43,80,75,87,74
+21518,8394,SV Darmstadt 98,33635,Gabi,82,67,79,84,75,76
+21518,8394,SV Darmstadt 98,34601,Jermaine Pennant,82,61,90,69,31,71
+7809,8398,SV Darmstadt 98,42221,Cagdas Atan,75,36,72,69,73,67
+7809,8398,SV Darmstadt 98,26799,Dennis Soerensen,75,78,78,58,60,68
+7809,8398,SV Darmstadt 98,37558,Dimitar Rangelov,74,76,80,68,36,77
+7809,8398,SV Darmstadt 98,33339,Gerhard Tremmel,76,25,48,55,25,25
+7809,8398,SV Darmstadt 98,45189,Jan Rajnoch,74,67,71,81,75,76
+7809,8406,SV Darmstadt 98,324910,Abdul Rahman Baba,78,49,85,72,73,60
+7809,8406,SV Darmstadt 98,39566,Alex Manninger,77,25,59,51,25,41
+7809,8406,SV Darmstadt 98,243829,Andre Hahn,77,79,81,50,46,79
+7809,8406,SV Darmstadt 98,277460,Arkadiusz Milik,77,84,76,36,32,75
+7809,8406,SV Darmstadt 98,37319,Daniel Baier,79,64,77,84,73,72
+7809,8406,SV Darmstadt 98,35997,Halil Altintop,81,84,84,67,25,81
+7809,8406,SV Darmstadt 98,114737,Marwin Hitz,77,27,51,41,25,28
+19694,8426,SV Darmstadt 98,89405,Abdul Osman,66,57,67,67,69,59
+19694,8426,SV Darmstadt 98,212715,David Amoo,69,71,91,61,43,65
+19694,8426,SV Darmstadt 98,149174,Frederik Frans,66,35,58,64,67,38
+19694,8426,SV Darmstadt 98,22952,Isaac Osbourne,66,46,75,64,66,65
+19694,8426,SV Darmstadt 98,80293,Kallum Higginbotham,68,65,73,32,25,64
+19694,8426,SV Darmstadt 98,32457,Lee Mair,73,40,61,60,74,58
+19694,8426,SV Darmstadt 98,179810,Mustapha Dumbuya,66,45,90,64,63,61
+19694,8429,SV Darmstadt 98,35439,Derek Asamoah,72,64,90,66,43,81
+19694,8429,SV Darmstadt 98,32621,Guillaume Beuzelin,75,64,61,67,39,64
+19694,8429,SV Darmstadt 98,28901,James McArthur,76,56,73,75,73,71
+19694,8429,SV Darmstadt 98,101192,James McCarthy,80,66,75,79,81,74
+19694,8429,SV Darmstadt 98,30953,Jason Scotland,72,81,79,57,25,73
+1729,8455,SV Darmstadt 98,30613,Cesc Fabregas,89,83,77,90,73,93
+1729,8455,SV Darmstadt 98,30822,Didier Drogba,88,94,88,84,39,91
+1729,8455,SV Darmstadt 98,107417,Eden Hazard,89,83,93,63,49,86
+1729,8455,SV Darmstadt 98,30853,Fernando Torres,88,95,95,79,21,95
+1729,8455,SV Darmstadt 98,30631,Frank Lampard,90,90,83,84,69,91
+1729,8455,SV Darmstadt 98,30627,John Terry,91,46,73,86,93,91
+1729,8455,SV Darmstadt 98,30675,Michael Essien,88,75,87,91,85,92
+1729,8456,SV Darmstadt 98,38817,Carlos Tevez,88,92,90,77,61,91
+1729,8456,SV Darmstadt 98,37459,David Silva,88,90,87,85,66,85
+1729,8456,SV Darmstadt 98,30960,Emmanuel Adebayor,87,90,84,69,23,87
+1729,8456,SV Darmstadt 98,30631,Frank Lampard,90,90,83,84,69,91
+1729,8456,SV Darmstadt 98,36183,Jerome Boateng,87,37,79,84,84,72
+19694,8457,SV Darmstadt 98,41592,Andrew Barrowman,66,72,62,18,10,59
+19694,8457,SV Darmstadt 98,24575,Andy Kirk,66,68,72,17,26,68
+19694,8457,SV Darmstadt 98,75348,Bernardo Dominguez,66,25,66,57,25,27
+19694,8457,SV Darmstadt 98,24000,Iain Turner,71,25,78,75,32,64
+19694,8457,SV Darmstadt 98,32968,John Potter,75,78,74,71,66,84
+19694,8457,SV Darmstadt 98,32453,Mark Kerr,68,73,61,66,54,61
+7809,8460,SV Darmstadt 98,94883,Alban Meha,74,72,78,46,51,68
+7809,8460,SV Darmstadt 98,94164,Jens Wemmer,71,53,76,67,71,57
+7809,8460,SV Darmstadt 98,37335,Lukas Kruse,72,25,59,56,25,35
+7809,8460,SV Darmstadt 98,182892,Lukas Rupp,74,64,76,63,63,67
+7809,8460,SV Darmstadt 98,37048,Mahir Saglik,71,78,77,55,23,71
+7809,8460,SV Darmstadt 98,36379,Mario Vrancic,71,64,61,58,39,67
+7809,8460,SV Darmstadt 98,269666,Marvin Bakalorz,71,56,69,67,67,61
+7809,8460,SV Darmstadt 98,26928,Moritz Stoppelkamp,72,67,83,61,49,68
+1729,8462,SV Darmstadt 98,30901,Aruna Dindane,83,85,85,62,18,77
+1729,8462,SV Darmstadt 98,46518,Asmir Begovic,82,25,67,53,25,57
+1729,8462,SV Darmstadt 98,36286,David James,83,21,62,72,27,64
+1729,8462,SV Darmstadt 98,30348,Jermain Defoe,84,91,94,73,24,85
+1729,8462,SV Darmstadt 98,34601,Jermaine Pennant,82,61,90,69,31,71
+1729,8462,SV Darmstadt 98,27335,Kevin-Prince Boateng,85,80,82,77,72,82
+1729,8462,SV Darmstadt 98,23988,Lassana Diarra,82,48,85,90,82,85
+13274,8464,SV Darmstadt 98,26510,Gabor Babos,76,37,60,58,28,65
+13274,8464,SV Darmstadt 98,212512,Jasper Cillessen,82,25,54,28,25,25
+13274,8464,SV Darmstadt 98,42592,Khalid Sinouh,76,22,52,68,22,43
+13274,8464,SV Darmstadt 98,39213,Lasse Schoene,77,75,78,67,49,76
+13274,8464,SV Darmstadt 98,160211,Mostapha El Kabir,75,76,90,47,25,77
+1729,8466,SV Darmstadt 98,30974,Artur Boruc,84,25,41,63,25,25
+1729,8466,SV Darmstadt 98,94267,Dusan Tadic,81,73,81,43,49,75
+1729,8466,SV Darmstadt 98,26552,Jose Fonte,81,65,72,85,84,71
+1729,8466,SV Darmstadt 98,30841,Maarten Stekelenburg,85,42,64,62,28,71
+1729,8466,SV Darmstadt 98,46893,Morgan Schneiderlin,82,64,74,86,77,67
+19694,8467,SV Darmstadt 98,28110,Daniel Swanson,72,64,82,61,54,69
+19694,8467,SV Darmstadt 98,39660,Derek Riordan,79,84,80,74,29,75
+19694,8467,SV Darmstadt 98,133997,Francisco Sandaza,72,81,72,48,25,72
+19694,8467,SV Darmstadt 98,24002,James McFadden,78,75,84,67,25,79
+19694,8467,SV Darmstadt 98,131845,Jonatan Johansson,73,77,75,62,39,75
+19694,8467,SV Darmstadt 98,23310,Michael Duberry,75,28,66,71,71,68
+1729,8472,SV Darmstadt 98,24159,Adam Johnson,82,77,88,76,59,82
+1729,8472,SV Darmstadt 98,23949,Darren Bent,85,90,94,77,31,88
+1729,8472,SV Darmstadt 98,33418,Djibril Cisse,84,87,92,56,25,81
+1729,8472,SV Darmstadt 98,23927,El Hadji Diouf,82,82,90,69,51,76
+1729,8472,SV Darmstadt 98,30348,Jermain Defoe,84,91,94,73,24,85
+1729,8472,SV Darmstadt 98,30885,John Mensah,84,38,68,77,90,86
+1,8475,SV Darmstadt 98,170660,Ante Vukusic,73,74,82,25,25,77
+1,8475,SV Darmstadt 98,36852,Daniel Cruz,72,68,72,70,38,70
+1,8475,SV Darmstadt 98,78902,Ebrahima Ibou Sawaneh,72,77,85,48,26,71
+1,8475,SV Darmstadt 98,8930,Hrvoje Cale,72,68,54,71,68,75
+1,8475,SV Darmstadt 98,32760,Milos Maric,76,66,76,74,67,74
+21518,8479,SV Darmstadt 98,38035,"Fernandez Aitor Tornavaca,29",77,62,64,77,65,74
+21518,8479,SV Darmstadt 98,37434,Iago Bouzon,79,57,75,74,85,69
+21518,8479,SV Darmstadt 98,74747,Javi Fuego,80,70,78,85,75,70
+21518,8479,SV Darmstadt 98,75474,Javier Camunas,79,74,82,80,39,81
+21518,8479,SV Darmstadt 98,30897,Kanga Akale,80,73,85,59,25,62
+4769,8481,SV Darmstadt 98,120919,Aatif Chahechouhe,77,79,84,40,26,83
+4769,8481,SV Darmstadt 98,31684,Abdeslam Ouaddou,78,34,78,79,83,71
+4769,8481,SV Darmstadt 98,111801,Alfred N'Diaye,77,46,66,76,75,63
+4769,8481,SV Darmstadt 98,131995,Benjamin Moukandjo,77,80,91,41,25,78
+4769,8481,SV Darmstadt 98,26233,Gennaro Bracigliano,78,25,47,63,25,68
+4769,8481,SV Darmstadt 98,46757,Julien Feret,79,75,81,71,55,75
+4769,8481,SV Darmstadt 98,41198,Mustapha Bayal Sall,78,59,75,78,81,67
+1729,8483,SV Darmstadt 98,17866,Andrew Reid,78,73,76,79,41,72
+1729,8483,SV Darmstadt 98,39109,Charlie Adam,80,76,70,67,65,77
+1729,8483,SV Darmstadt 98,40563,David Vaughan,77,68,76,69,66,72
+1729,8483,SV Darmstadt 98,24001,James Beattie,80,83,76,75,42,78
+1729,8483,SV Darmstadt 98,24772,Marlon Harewood,79,83,85,68,36,77
+19694,8485,SV Darmstadt 98,32593,Andrew Driver,78,66,91,63,50,71
+19694,8485,SV Darmstadt 98,32455,Barry Robson,80,69,82,66,54,72
+19694,8485,SV Darmstadt 98,40570,Charles Mulgrew,75,42,74,80,75,66
+19694,8485,SV Darmstadt 98,32427,Darren Mackie,77,79,83,55,22,64
+19694,8485,SV Darmstadt 98,32465,David Goodwillie,75,84,82,49,25,78
+19694,8485,SV Darmstadt 98,38966,Lee Miller,75,78,74,71,25,84
+4769,8521,SV Darmstadt 98,26275,Alexis Thebaux,77,25,65,45,25,40
+4769,8521,SV Darmstadt 98,32577,Bernard Mendy,73,57,90,72,76,76
+4769,8521,SV Darmstadt 98,93471,Bruno Grougi,75,66,79,74,40,72
+4769,8521,SV Darmstadt 98,112119,Charlison Benschop,73,74,74,31,34,73
+4769,8521,SV Darmstadt 98,14560,Eden Ben Basat,73,77,73,31,41,76
+4769,8521,SV Darmstadt 98,184521,Florian Lejeune,73,42,57,72,74,55
+4769,8521,SV Darmstadt 98,37241,Geoffrey Dernis,76,75,87,76,70,75
+4769,8521,SV Darmstadt 98,52054,John Jairo Culma,73,46,62,76,75,48
+4769,8521,SV Darmstadt 98,32574,Jonathan Zebina,76,34,84,79,80,73
+4769,8521,SV Darmstadt 98,158962,Magaye Gueye,73,76,83,55,27,71
+10257,8524,SV Darmstadt 98,41475,Alessandro Diamanti,83,73,82,68,55,79
+10257,8524,SV Darmstadt 98,41269,Alessio Cerci,82,79,88,67,30,82
+10257,8524,SV Darmstadt 98,38490,Christian Vieri,84,91,76,79,26,88
+10257,8524,SV Darmstadt 98,34969,Javier Chevanton,82,87,82,72,24,81
+10257,8524,SV Darmstadt 98,39447,Marco Borriello,82,88,82,83,55,86
+10257,8524,SV Darmstadt 98,26315,Mario Yepes,85,41,71,84,89,82
+13274,8525,SV Darmstadt 98,25551,Bartholomew Ogbeche,75,78,82,63,31,76
+13274,8525,SV Darmstadt 98,47552,Ben Sahar,73,78,92,38,20,76
+13274,8525,SV Darmstadt 98,45830,Frank Demouge,73,85,68,76,55,80
+13274,8525,SV Darmstadt 98,109649,Jan-Arie van der Heijden,74,53,69,76,79,66
+13274,8525,SV Darmstadt 98,252969,Lucas Andersen,74,59,75,50,35,65
+13274,8525,SV Darmstadt 98,352366,Mitchell Dijks,74,30,72,72,76,58
+13274,8526,SV Darmstadt 98,32593,Andrew Driver,78,66,91,63,50,71
+13274,8526,SV Darmstadt 98,47552,Ben Sahar,73,78,92,38,20,76
+13274,8526,SV Darmstadt 98,26484,Boy Waterman,73,40,62,45,25,52
+13274,8526,SV Darmstadt 98,150201,Luuk de Jong,79,83,78,43,39,84
+13274,8526,SV Darmstadt 98,179239,Michael de Leeuw,74,82,68,45,39,79
+1729,8528,SV Darmstadt 98,25156,Ali Al-Habsi,79,25,64,76,25,71
+1729,8528,SV Darmstadt 98,35327,Antonio Valencia,84,75,92,73,65,84
+1729,8528,SV Darmstadt 98,30922,Arouna Kone,80,82,88,58,35,83
+1729,8528,SV Darmstadt 98,29581,Charles N'Zogbia,79,70,91,73,67,83
+1729,8528,SV Darmstadt 98,49825,Franco Di Santo,79,82,78,51,25,78
+1729,8528,SV Darmstadt 98,24841,Henri Camara,80,76,96,71,30,79
+1729,8528,SV Darmstadt 98,101192,James McCarthy,80,66,75,79,81,74
+1729,8528,SV Darmstadt 98,96481,Marcelo Moreno,79,82,77,24,32,82
+10257,8529,SV Darmstadt 98,41411,Alessandro Matri,81,87,84,77,32,87
+10257,8529,SV Darmstadt 98,41326,Andrea Cossu,80,69,87,76,33,78
+10257,8529,SV Darmstadt 98,103266,Davide Astori,80,35,69,86,86,65
+10257,8529,SV Darmstadt 98,39599,Federico Marchetti,84,41,62,62,30,61
+10257,8529,SV Darmstadt 98,181910,Mattia Perin,81,26,67,34,34,46
+10257,8530,SV Darmstadt 98,37503,Albano Benjamin Bizzarri,80,32,61,58,27,56
+10257,8530,SV Darmstadt 98,39706,Giuseppe Mascara,80,78,82,83,54,81
+10257,8530,SV Darmstadt 98,30907,Jaroslav Plasil,81,70,76,82,70,81
+10257,8530,SV Darmstadt 98,25735,Juan Pablo Carrizo,80,26,59,33,25,29
+10257,8530,SV Darmstadt 98,18823,Matias Silvestre,80,52,80,82,83,78
+10257,8533,SV Darmstadt 98,37503,Albano Benjamin Bizzarri,80,32,61,58,27,56
+10257,8533,SV Darmstadt 98,24504,Alessandro Gamberini,84,38,86,85,88,87
+10257,8533,SV Darmstadt 98,27665,David Di Michele,82,79,82,81,54,82
+10257,8533,SV Darmstadt 98,26315,Mario Yepes,85,41,71,84,89,82
+10257,8533,SV Darmstadt 98,26472,Michael Bradley,80,78,85,78,73,84
+10257,8534,SV Darmstadt 98,358155,Daniele Rugani,78,36,63,83,84,42
+10257,8534,SV Darmstadt 98,293160,Elseid Hysaj,77,45,80,78,76,60
+10257,8534,SV Darmstadt 98,37457,Francesco Tavano,79,82,82,74,31,79
+10257,8534,SV Darmstadt 98,212643,Lorenzo Tonelli,78,35,75,81,82,28
+10257,8534,SV Darmstadt 98,30284,Massimo Maccarone,77,82,83,77,36,80
+10257,8534,SV Darmstadt 98,41688,Mirko Valdifiori,77,49,71,75,64,63
+10257,8535,SV Darmstadt 98,39311,Adrian Mutu,85,92,88,80,21,87
+10257,8535,SV Darmstadt 98,30881,Alberto Gilardino,85,93,83,78,28,95
+10257,8535,SV Darmstadt 98,38827,Amauri,85,90,82,81,43,85
+10257,8535,SV Darmstadt 98,38699,Giuseppe Rossi,85,90,87,78,46,88
+10257,8535,SV Darmstadt 98,37824,Joaquin,88,74,89,78,60,82
+10257,8535,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+10257,8535,SV Darmstadt 98,27326,Mario Gomez,87,92,84,73,28,91
+10257,8537,SV Darmstadt 98,41475,Alessandro Diamanti,83,73,82,68,55,79
+10257,8537,SV Darmstadt 98,27606,Alessandro Grandoni,81,63,79,74,86,73
+10257,8537,SV Darmstadt 98,11685,Antonio Candreva,83,75,87,76,58,78
+10257,8537,SV Darmstadt 98,25337,Cristiano Lucarelli,85,91,76,87,25,85
+10257,8537,SV Darmstadt 98,37457,Francesco Tavano,79,82,82,74,31,79
+10257,8540,SV Darmstadt 98,30881,Alberto Gilardino,85,93,83,78,28,95
+10257,8540,SV Darmstadt 98,49677,Edinson Cavani,87,90,84,75,51,90
+10257,8540,SV Darmstadt 98,32747,Fabrizio Miccoli,83,85,90,77,26,85
+10257,8540,SV Darmstadt 98,129391,Javier Pastore,84,78,81,69,49,81
+10257,8540,SV Darmstadt 98,30713,Marco Amelia,83,42,51,64,27,16
+10257,8543,SV Darmstadt 98,33418,Djibril Cisse,84,87,92,56,25,81
+10257,8543,SV Darmstadt 98,39599,Federico Marchetti,84,41,62,62,30,61
+10257,8543,SV Darmstadt 98,21446,Hernanes,85,79,76,85,80,91
+10257,8543,SV Darmstadt 98,18506,Mauro Zarate,84,87,92,74,32,84
+10257,8543,SV Darmstadt 98,30638,Miroslav Klose,87,92,91,83,25,90
+19694,8548,SV Darmstadt 98,32496,Allan McGregor,80,25,43,52,25,25
+19694,8548,SV Darmstadt 98,24978,Barry Ferguson,84,80,75,84,71,87
+19694,8548,SV Darmstadt 98,39109,Charlie Adam,80,76,70,67,65,77
+19694,8548,SV Darmstadt 98,38837,DaMarcus Beasley,80,72,93,73,69,73
+19694,8548,SV Darmstadt 98,23927,El Hadji Diouf,82,82,90,69,51,76
+19694,8548,SV Darmstadt 98,24001,James Beattie,80,83,76,75,42,78
+19694,8548,SV Darmstadt 98,32578,Jerome Rothen,85,72,80,87,69,79
+19694,8548,SV Darmstadt 98,32867,Kris Boyd,86,90,74,68,25,86
+1729,8549,SV Darmstadt 98,24159,Adam Johnson,82,77,88,76,59,82
+1729,8549,SV Darmstadt 98,35608,"Afonso Alves,24",84,93,79,78,49,82
+1729,8549,SV Darmstadt 98,24166,David Wheater,77,54,66,73,73,70
+1729,8549,SV Darmstadt 98,24167,Emanuel Pogatetz,77,30,76,75,81,77
+1729,8549,SV Darmstadt 98,24753,Jeremie Aliadiere,77,81,91,64,25,79
+1729,8549,SV Darmstadt 98,38491,Mido,77,81,70,66,33,74
+4769,8550,SV Darmstadt 98,30679,Florent Malouda,87,79,89,79,68,84
+4769,8550,SV Darmstadt 98,426873,Gaetan Bussmann,73,57,71,74,72,65
+4769,8550,SV Darmstadt 98,25560,Guirane N'Daw,73,49,66,71,72,72
+4769,8550,SV Darmstadt 98,185625,Jose Luis Palomino,73,26,65,71,75,28
+4769,8550,SV Darmstadt 98,91560,Modibo Maiga,78,79,79,28,25,76
+10257,8551,SV Darmstadt 98,31304,Alessandro Rosina,79,77,89,79,76,82
+10257,8551,SV Darmstadt 98,27719,Felipe,79,57,76,81,81,82
+10257,8551,SV Darmstadt 98,39644,Gaetano D'Agostino,83,65,73,85,68,87
+10257,8551,SV Darmstadt 98,50074,Juan Camilo Zuniga,80,56,89,71,73,78
+10257,8551,SV Darmstadt 98,154249,Mattia Destro,79,85,79,58,25,87
+21518,8558,SV Darmstadt 98,25563,Carlos Kameni,82,25,44,32,25,25
+21518,8558,SV Darmstadt 98,70891,Diego Daniel Colotto,80,66,73,82,81,75
+21518,8558,SV Darmstadt 98,574200,Eric Bertrand Bailly,80,33,79,84,82,36
+21518,8558,SV Darmstadt 98,40672,Francisco Casilla,81,25,46,49,36,44
+21518,8558,SV Darmstadt 98,32766,Ivan de la Pena,85,69,78,89,41,78
+21518,8558,SV Darmstadt 98,40599,Joan Capdevila,80,77,82,84,83,83
+21518,8558,SV Darmstadt 98,37441,Joan Verdu,80,71,74,71,43,79
+21518,8558,SV Darmstadt 98,150330,Jose Maria Callejon,81,80,91,58,25,88
+21518,8558,SV Darmstadt 98,43329,Kalu Uche,80,77,86,77,36,74
+21518,8558,SV Darmstadt 98,24852,Luis Garcia,80,87,84,49,35,78
+21518,8558,SV Darmstadt 98,40001,Michael Ciani,80,36,74,85,82,82
+1729,8559,SV Darmstadt 98,51553,Daniel Sturridge,83,86,91,66,25,85
+1729,8559,SV Darmstadt 98,23783,Gary Cahill,83,71,73,86,84,72
+1729,8559,SV Darmstadt 98,30753,Ivan Klasnic,83,82,82,71,23,83
+1729,8559,SV Darmstadt 98,143793,Jack Wilshere,83,72,83,69,69,80
+1729,8559,SV Darmstadt 98,34261,Johan Elmander,85,88,81,75,31,81
+1729,8559,SV Darmstadt 98,33633,Martin Petrov,83,76,87,64,20,75
+21518,8560,SV Darmstadt 98,184138,Antoine Griezmann,84,87,86,60,23,88
+21518,8560,SV Darmstadt 98,205278,Asier Illarramendi,80,54,69,79,71,79
+21518,8560,SV Darmstadt 98,75342,Carlos Vela,83,82,88,66,25,83
+21518,8560,SV Darmstadt 98,37421,Claudio Bravo,83,25,61,50,25,53
+21518,8560,SV Darmstadt 98,56686,Gonzalo Castro,80,74,89,75,61,81
+21518,8560,SV Darmstadt 98,282676,Inigo Martinez,80,42,78,84,85,48
+21518,8560,SV Darmstadt 98,38551,Joseba Llorente,81,89,77,70,52,84
+10257,8564,SV Darmstadt 98,30723,Alessandro Nesta,91,24,83,92,94,90
+10257,8564,SV Darmstadt 98,30731,Andrea Pirlo,88,68,77,96,63,95
+10257,8564,SV Darmstadt 98,31996,Andriy Shevchenko,88,92,87,81,23,84
+10257,8564,SV Darmstadt 98,30720,Dida,88,25,60,82,25,25
+10257,8564,SV Darmstadt 98,30853,Fernando Torres,88,95,95,79,21,95
+10257,8564,SV Darmstadt 98,41044,Kaka,90,92,93,87,25,88
+10257,8564,SV Darmstadt 98,30675,Michael Essien,88,75,87,91,85,92
+15722,8569,SV Darmstadt 98,196185,Arkadiusz Piech,70,70,90,58,52,81
+15722,8569,SV Darmstadt 98,68744,Dariusz Pietrasiak,69,35,57,77,64,60
+15722,8569,SV Darmstadt 98,115724,Grzegorz Kuswik,68,71,70,47,44,71
+15722,8569,SV Darmstadt 98,13334,Lukasz Madej,68,60,76,71,46,68
+15722,8569,SV Darmstadt 98,92222,Mateusz Cetnarski,69,66,82,59,38,65
+15722,8569,SV Darmstadt 98,275735,Mateusz Mak,68,65,85,41,46,65
+1,8571,SV Darmstadt 98,208929,Brecht Dejaeghere,74,56,84,69,62,72
+1,8571,SV Darmstadt 98,148302,Cheikhou Kouyate,76,64,80,81,71,72
+1,8571,SV Darmstadt 98,148315,Christian Benteke,82,84,82,48,25,81
+1,8571,SV Darmstadt 98,45413,Ervin Zukanovic,74,35,68,78,81,43
+1,8571,SV Darmstadt 98,164732,Ilombe Mboyo,74,76,77,43,30,76
+1,8571,SV Darmstadt 98,38441,Laurent Ciman,77,55,78,80,80,63
+1,8573,SV Darmstadt 98,201811,Andile Jali,74,55,75,75,76,67
+1,8573,SV Darmstadt 98,36832,Carl Hoefkens,73,43,60,76,71,74
+1,8573,SV Darmstadt 98,30918,David Rozehnal,81,29,71,79,84,72
+1,8573,SV Darmstadt 98,131531,Franck Berrier,74,67,73,74,45,72
+1,8573,SV Darmstadt 98,166302,Gohi Bi Cyriac,73,78,91,50,25,72
+1,8573,SV Darmstadt 98,282671,Laurent Depoitre,76,76,67,32,25,76
+4769,8576,SV Darmstadt 98,39311,Adrian Mutu,85,92,88,80,21,87
+4769,8576,SV Darmstadt 98,39993,Benoit Pedretti,82,65,86,86,74,87
+4769,8576,SV Darmstadt 98,78186,Eduardo,83,78,78,71,63,73
+4769,8576,SV Darmstadt 98,31047,Guillermo Ochoa,82,25,87,68,25,69
+4769,8576,SV Darmstadt 98,37242,Ilan,79,81,81,73,25,78
+4769,8576,SV Darmstadt 98,40543,Matthieu Chalme,79,51,84,77,78,82
+21518,8581,SV Darmstadt 98,30922,Arouna Kone,80,82,88,58,35,83
+21518,8581,SV Darmstadt 98,34575,Asier del Horno,80,70,84,80,83,81
+21518,8581,SV Darmstadt 98,38699,Giuseppe Rossi,85,90,87,78,46,88
+21518,8581,SV Darmstadt 98,37461,Jaime Gavilan,82,77,78,85,61,85
+21518,8581,SV Darmstadt 98,37441,Joan Verdu,80,71,74,71,43,79
+21518,8581,SV Darmstadt 98,43329,Kalu Uche,80,77,86,77,36,74
+21518,8581,SV Darmstadt 98,51949,Keylor Navas,82,25,61,25,25,25
+21518,8581,SV Darmstadt 98,24132,Mohamed Lamine Sissoko,81,55,83,85,77,81
+4769,8583,SV Darmstadt 98,26136,Adama Coulibaly,78,38,73,83,80,78
+4769,8583,SV Darmstadt 98,39993,Benoit Pedretti,82,65,86,86,74,87
+4769,8583,SV Darmstadt 98,11323,Cedric Hengbart,78,61,82,83,78,69
+4769,8583,SV Darmstadt 98,34037,Ireneusz Jelen,81,89,85,68,31,87
+4769,8583,SV Darmstadt 98,39996,Jean-Pascal Mignot,78,33,74,83,82,65
+1729,8586,SV Darmstadt 98,33074,Eidur Gudjohnsen,86,88,78,84,42,83
+1729,8586,SV Darmstadt 98,30960,Emmanuel Adebayor,87,90,84,69,23,87
+1729,8586,SV Darmstadt 98,31921,Gareth Bale,87,84,93,73,82,83
+1729,8586,SV Darmstadt 98,26295,Hugo Lloris,86,25,68,27,25,65
+1729,8586,SV Darmstadt 98,31097,Luka Modric,88,83,82,80,69,86
+4769,8588,SV Darmstadt 98,78186,Eduardo,83,78,78,71,63,73
+4769,8588,SV Darmstadt 98,26141,Fabien Laurenti,76,26,68,68,81,66
+4769,8588,SV Darmstadt 98,35531,Franck Queudrue,76,34,76,71,80,69
+4769,8588,SV Darmstadt 98,214972,Geoffrey Kondogbia,78,48,74,84,69,68
+4769,8588,SV Darmstadt 98,154230,Gregory Sertic,77,69,71,73,74,74
+4769,8588,SV Darmstadt 98,41360,Henri Bedimo,76,48,82,75,77,74
+4769,8588,SV Darmstadt 98,30897,Kanga Akale,80,73,85,59,25,62
+4769,8588,SV Darmstadt 98,40683,Ludovic Baal,76,46,84,75,74,66
+4769,8592,SV Darmstadt 98,25496,Dimitri Payet,84,79,85,73,29,79
+4769,8592,SV Darmstadt 98,33418,Djibril Cisse,84,87,92,56,25,81
+4769,8592,SV Darmstadt 98,30670,Gabriel Heinze,85,40,83,81,86,84
+4769,8592,SV Darmstadt 98,39987,Loic Remy,83,84,91,72,23,81
+4769,8592,SV Darmstadt 98,40964,Lucho Gonzalez,85,78,79,87,67,84
+4769,8592,SV Darmstadt 98,25515,Mamadou Niang,83,91,79,72,24,73
+4769,8592,SV Darmstadt 98,40060,Mathieu Valbuena,83,77,92,75,30,79
+13274,8593,SV Darmstadt 98,157723,Christian Eriksen,84,75,86,58,42,79
+13274,8593,SV Darmstadt 98,32937,Christian Poulsen,83,43,78,80,85,86
+13274,8593,SV Darmstadt 98,36784,Klaas Jan Huntelaar,85,95,78,84,43,92
+13274,8593,SV Darmstadt 98,40636,Luis Suarez,90,91,88,72,30,91
+13274,8593,SV Darmstadt 98,30841,Maarten Stekelenburg,85,42,64,62,28,71
+19694,8596,SV Darmstadt 98,35524,Colin Healy,71,49,76,67,56,64
+19694,8596,SV Darmstadt 98,43282,Dani Mallo,70,21,49,63,22,23
+19694,8596,SV Darmstadt 98,12318,Dusan Pernis,70,23,38,37,23,39
+19694,8596,SV Darmstadt 98,23335,Jackie McNamara,73,44,72,81,76,78
+19694,8596,SV Darmstadt 98,22969,Michael Higdon,71,75,63,56,56,76
+19694,8597,SV Darmstadt 98,41941,Alexei Jr Eremenko,73,74,73,62,62,69
+19694,8597,SV Darmstadt 98,32413,Barry Nicholson,75,69,70,71,55,72
+19694,8597,SV Darmstadt 98,32907,Craig Bryson,73,69,74,70,70,76
+19694,8597,SV Darmstadt 98,36394,Julien Faubert,80,65,81,81,72,78
+19694,8597,SV Darmstadt 98,32867,Kris Boyd,86,90,74,68,25,86
+19694,8597,SV Darmstadt 98,24845,Lee McCulloch,73,73,68,76,71,76
+19694,8597,SV Darmstadt 98,38966,Lee Miller,75,78,74,71,25,84
+10257,8600,SV Darmstadt 98,50047,Alexis Sanchez,86,85,93,75,50,85
+10257,8600,SV Darmstadt 98,27734,Antonio Di Natale,86,90,92,91,38,89
+10257,8600,SV Darmstadt 98,39540,Fabio Quagliarella,83,85,88,80,39,85
+10257,8600,SV Darmstadt 98,39644,Gaetano D'Agostino,83,65,73,85,68,87
+10257,8600,SV Darmstadt 98,155066,Juan Cuadrado,83,76,92,69,68,80
+10257,8600,SV Darmstadt 98,46875,Mehdi Benatia,85,50,74,90,90,60
+1729,8602,SV Darmstadt 98,32581,Christophe Berra,76,35,68,74,77,61
+1729,8602,SV Darmstadt 98,25421,Jamie O'Hara,77,72,74,75,72,77
+1729,8602,SV Darmstadt 98,23291,Kevin Doyle,79,82,77,78,47,84
+1729,8602,SV Darmstadt 98,30669,Marcus Hahnemann,78,25,60,56,33,70
+1729,8602,SV Darmstadt 98,23538,Matt Jarvis,77,73,92,57,33,76
+21518,8603,SV Darmstadt 98,45749,Benat Etxebarria,82,76,69,77,63,78
+21518,8603,SV Darmstadt 98,2977,David Rivas Rodriguez,82,52,63,66,85,70
+21518,8603,SV Darmstadt 98,27461,Heiko Westermann,82,67,79,82,84,79
+21518,8603,SV Darmstadt 98,37824,Joaquin,88,74,89,78,60,82
+21518,8603,SV Darmstadt 98,39719,Juan Vargas,82,72,82,79,77,75
+21518,8603,SV Darmstadt 98,30750,Juanito,83,56,71,76,86,90
+13274,8611,SV Darmstadt 98,26544,Blaise N'Kufo,80,92,79,77,21,83
+13274,8611,SV Darmstadt 98,38229,Bryan Ruiz,82,85,75,70,45,84
+13274,8611,SV Darmstadt 98,38373,Cheik Tiote,82,62,79,83,81,82
+13274,8611,SV Darmstadt 98,94267,Dusan Tadic,81,73,81,43,49,75
+13274,8611,SV Darmstadt 98,26675,Eljero Elia,80,74,92,68,28,79
+17642,8613,SV Darmstadt 98,361711,Afonso,74,31,79,76,73,61
+17642,8613,SV Darmstadt 98,11285,Lucas,78,69,85,68,70,80
+17642,8613,SV Darmstadt 98,181205,Luisinho,72,57,78,34,43,76
+17642,8613,SV Darmstadt 98,25922,Marek Cech,74,70,81,76,72,72
+17642,8613,SV Darmstadt 98,194632,Mika,72,28,37,34,25,29
+13274,8614,SV Darmstadt 98,101584,Cassio,78,25,65,38,25,67
+13274,8614,SV Darmstadt 98,110115,Joshua John,73,71,87,52,24,65
+13274,8614,SV Darmstadt 98,114558,Kevin Strootman,81,67,68,82,70,78
+13274,8614,SV Darmstadt 98,178762,Lerin Duarte,74,63,86,68,57,72
+13274,8614,SV Darmstadt 98,198559,Marten De Roon,76,57,69,78,68,66
+21518,8633,SV Darmstadt 98,30834,Arjen Robben,90,85,96,72,29,89
+21518,8633,SV Darmstadt 98,30893,Cristiano Ronaldo,93,95,95,75,27,93
+21518,8633,SV Darmstadt 98,34520,Fabio Cannavaro,91,21,84,93,96,94
+21518,8633,SV Darmstadt 98,30657,Iker Casillas,91,25,71,87,25,52
+21518,8633,SV Darmstadt 98,41044,Kaka,90,92,93,87,25,88
+21518,8634,SV Darmstadt 98,30955,Andres Iniesta,91,75,88,88,67,92
+21518,8634,SV Darmstadt 98,30661,Carles Puyol,89,41,89,91,94,92
+21518,8634,SV Darmstadt 98,30613,Cesc Fabregas,89,83,77,90,73,93
+21518,8634,SV Darmstadt 98,30909,David Villa,89,94,88,87,42,93
+21518,8634,SV Darmstadt 98,30981,Lionel Messi,94,97,96,75,25,93
+21518,8634,SV Darmstadt 98,40636,Luis Suarez,90,91,88,72,30,91
+1,8635,SV Darmstadt 98,38369,Dieumerci Mbokani,79,84,85,54,27,79
+1,8635,SV Darmstadt 98,38393,Lucas Biglia,82,58,74,86,80,79
+1,8635,SV Darmstadt 98,71353,Marko Marin,81,72,88,59,26,75
+1,8635,SV Darmstadt 98,38383,Mbark Boussoufa,82,75,85,76,44,77
+1,8635,SV Darmstadt 98,37262,Milan Jovanovic,80,81,89,68,45,80
+10257,8636,SV Darmstadt 98,30690,Adriano,89,90,83,87,25,88
+10257,8636,SV Darmstadt 98,35561,Hernan Crespo,88,94,84,86,22,93
+10257,8636,SV Darmstadt 98,30989,Julio Cesar,89,25,76,76,25,86
+10257,8636,SV Darmstadt 98,39774,Lucio,89,52,85,89,91,86
+10257,8636,SV Darmstadt 98,30696,Luis Figo,88,82,75,89,27,87
+10257,8636,SV Darmstadt 98,30716,Marco Materazzi,88,64,78,80,87,76
+4769,8639,SV Darmstadt 98,77741,Adil Rami,84,47,68,83,85,74
+4769,8639,SV Darmstadt 98,25496,Dimitri Payet,84,79,85,73,29,79
+4769,8639,SV Darmstadt 98,107417,Eden Hazard,89,83,93,63,49,86
+4769,8639,SV Darmstadt 98,37950,Gervinho,84,84,94,72,45,88
+4769,8639,SV Darmstadt 98,30630,Joe Cole,87,81,87,76,56,81
+4769,8639,SV Darmstadt 98,20401,Michel Bastos,84,79,86,80,69,83
+4769,8639,SV Darmstadt 98,30742,Mickael Landreau,85,25,61,75,25,25
+13274,8640,SV Darmstadt 98,36617,Andreas Isaksson,83,25,84,72,25,65
+13274,8640,SV Darmstadt 98,31045,Andres Guardado,82,77,90,79,71,75
+13274,8640,SV Darmstadt 98,38229,Bryan Ruiz,82,85,75,70,45,84
+13274,8640,SV Darmstadt 98,46104,Dries Mertens,82,79,92,68,34,77
+13274,8640,SV Darmstadt 98,26434,Ibrahim Afellay,82,75,89,76,63,78
+13274,8640,SV Darmstadt 98,30802,Ji-Sung Park,82,76,84,76,80,85
+13274,8640,SV Darmstadt 98,38244,Mark van Bommel,84,85,83,85,87,88
+19694,8649,SV Darmstadt 98,23007,Andrew Davies,69,36,72,70,71,72
+19694,8649,SV Darmstadt 98,32465,David Goodwillie,75,84,82,49,25,78
+19694,8649,SV Darmstadt 98,72441,Erik Cikos,69,46,69,69,76,51
+19694,8649,SV Darmstadt 98,32670,Grant Munro,71,32,52,59,74,54
+19694,8649,SV Darmstadt 98,32836,Marc Fitzpatrick,69,57,69,63,59,62
+19694,8649,SV Darmstadt 98,32658,Mark Brown,72,30,36,55,25,25
+19694,8649,SV Darmstadt 98,35398,Michael Gardyne,70,68,86,41,52,66
+19694,8649,SV Darmstadt 98,112704,Michael Kovacevic,69,25,61,63,72,43
+1729,8650,SV Darmstadt 98,30853,Fernando Torres,88,95,95,79,21,95
+1729,8650,SV Darmstadt 98,30617,Jamie Carragher,88,31,73,88,93,94
+1729,8650,SV Darmstadt 98,38818,Javier Mascherano,86,57,77,94,91,94
+1729,8650,SV Darmstadt 98,30630,Joe Cole,87,81,87,76,56,81
+1729,8650,SV Darmstadt 98,30831,Kolo Toure,86,56,80,85,88,85
+1729,8650,SV Darmstadt 98,40636,Luis Suarez,90,91,88,72,30,91
+1729,8654,SV Darmstadt 98,41475,Alessandro Diamanti,83,73,82,68,55,79
+1729,8654,SV Darmstadt 98,23678,Alex Song,83,63,76,91,82,80
+1729,8654,SV Darmstadt 98,34947,"Bennedict McCarthy,27",86,92,84,80,29,81
+1729,8654,SV Darmstadt 98,25496,Dimitri Payet,84,79,85,73,29,79
+1729,8654,SV Darmstadt 98,30630,Joe Cole,87,81,87,76,56,81
+1729,8654,SV Darmstadt 98,18506,Mauro Zarate,84,87,92,74,32,84
+1729,8655,SV Darmstadt 98,24160,Aiyegbeni Yakubu,84,90,91,74,28,82
+1729,8655,SV Darmstadt 98,34947,"Bennedict McCarthy,27",86,92,84,80,29,81
+1729,8655,SV Darmstadt 98,23927,El Hadji Diouf,82,82,90,69,51,76
+1729,8655,SV Darmstadt 98,30739,Gael Givet,85,25,63,74,89,78
+1729,8655,SV Darmstadt 98,23916,Morten Gamst Pedersen,85,87,79,80,72,81
+1729,8658,SV Darmstadt 98,26169,Aleksandr Hleb,84,74,83,77,38,84
+1729,8658,SV Darmstadt 98,24978,Barry Ferguson,84,80,75,84,71,87
+1729,8658,SV Darmstadt 98,23760,David Bentley,83,78,89,73,51,76
+1729,8658,SV Darmstadt 98,31432,Joe Hart,85,35,65,39,25,63
+1729,8658,SV Darmstadt 98,37552,Kevin Phillips,81,87,70,70,45,84
+1729,8659,SV Darmstadt 98,38433,Borja Valero,83,79,74,80,66,81
+1729,8659,SV Darmstadt 98,75342,Carlos Vela,83,82,88,66,25,83
+1729,8659,SV Darmstadt 98,24148,Darren Fletcher,83,74,80,92,88,87
+1729,8659,SV Darmstadt 98,42168,Diego Lugano,82,47,76,82,89,85
+1729,8659,SV Darmstadt 98,33086,Joleon Lescott,82,70,75,82,86,78
+21518,8661,SV Darmstadt 98,33028,Aritz Aduriz,82,86,82,76,47,87
+21518,8661,SV Darmstadt 98,38433,Borja Valero,83,79,74,80,66,81
+21518,8661,SV Darmstadt 98,40710,Fernando Cavenaghi,82,93,81,87,55,94
+21518,8661,SV Darmstadt 98,97491,Geromel,81,26,72,79,84,83
+21518,8661,SV Darmstadt 98,41157,Giovani dos Santos,82,83,91,55,36,80
+21518,8661,SV Darmstadt 98,33845,Miguel Angel Moya,81,25,48,28,25,25
+1729,8667,SV Darmstadt 98,32496,Allan McGregor,80,25,43,52,25,25
+1729,8667,SV Darmstadt 98,101969,Dame N'Doye,80,83,78,71,53,84
+1729,8667,SV Darmstadt 98,190872,Gaston Ramirez,80,75,84,40,35,78
+1729,8667,SV Darmstadt 98,30595,George Boateng,80,65,77,77,78,80
+1729,8667,SV Darmstadt 98,26163,Hatem Ben Arfa,82,82,86,78,33,80
+1729,8667,SV Darmstadt 98,37798,Jan Vennegoor of Hesselink,85,90,71,73,32,87
+1729,8667,SV Darmstadt 98,24843,Jimmy Bullard,80,73,73,79,65,79
+1729,8667,SV Darmstadt 98,24531,Michael Dawson,82,33,68,81,85,77
+1729,8668,SV Darmstadt 98,30895,Aaron Lennon,84,70,96,81,30,79
+1729,8668,SV Darmstadt 98,32448,Aiden McGeady,83,72,92,68,34,72
+1729,8668,SV Darmstadt 98,24160,Aiyegbeni Yakubu,84,90,91,74,28,82
+1729,8668,SV Darmstadt 98,23782,Gareth Barry,84,73,71,86,80,87
+1729,8668,SV Darmstadt 98,30700,Landon Donovan,83,84,94,82,58,83
+1729,8668,SV Darmstadt 98,24846,Leighton Baines,83,70,82,85,87,84
+1729,8668,SV Darmstadt 98,30735,Louis Saha,83,86,92,81,38,88
+1729,8668,SV Darmstadt 98,24011,Mikel Arteta,83,72,83,85,78,87
+15722,8673,SV Darmstadt 98,38773,Danijel Ljuboja,77,75,74,70,25,78
+15722,8673,SV Darmstadt 98,69030,Dossa Junior,73,41,76,71,76,37
+15722,8673,SV Darmstadt 98,24341,Jan Mucha,74,25,53,42,25,25
+15722,8673,SV Darmstadt 98,30272,Marcin Mieciel,74,81,71,76,46,71
+15722,8673,SV Darmstadt 98,34264,Miroslav Radovic,77,79,84,78,26,82
+13274,8674,SV Darmstadt 98,30424,Andreas Granqvist,79,58,74,82,83,78
+13274,8674,SV Darmstadt 98,161012,Daley Blind,81,46,74,84,80,72
+13274,8674,SV Darmstadt 98,94267,Dusan Tadic,81,73,81,43,49,75
+13274,8674,SV Darmstadt 98,281012,Filip Kostic,79,77,90,32,35,73
+13274,8674,SV Darmstadt 98,30994,Hedwiges Maduro,81,73,74,84,80,80
+1729,8678,SV Darmstadt 98,30974,Artur Boruc,84,25,41,63,25,25
+1729,8678,SV Darmstadt 98,184321,Callum Wilson,75,79,93,44,25,77
+1729,8678,SV Darmstadt 98,46810,Dan Gosling,74,68,74,75,76,77
+1729,8678,SV Darmstadt 98,155913,Matt Ritchie,74,73,75,46,56,72
+1729,8678,SV Darmstadt 98,46349,Max-Alain Gradel,79,75,91,51,38,78
+4769,8682,SV Darmstadt 98,37950,Gervinho,84,84,94,72,45,88
+4769,8682,SV Darmstadt 98,40683,Ludovic Baal,76,46,84,75,74,66
+4769,8682,SV Darmstadt 98,68436,Marcelo Estigarribia,78,65,86,66,60,76
+4769,8682,SV Darmstadt 98,40685,Mathieu Coutadeur,77,70,74,79,62,83
+4769,8682,SV Darmstadt 98,91560,Modibo Maiga,78,79,79,28,25,76
+10257,8686,SV Darmstadt 98,30690,Adriano,89,90,83,87,25,88
+10257,8686,SV Darmstadt 98,30682,Daniele De Rossi,86,79,81,90,80,89
+10257,8686,SV Darmstadt 98,30714,Francesco Totti,90,90,86,89,58,92
+10257,8686,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+10257,8686,SV Darmstadt 98,34305,Maicon,86,75,91,87,86,86
+4769,8689,SV Darmstadt 98,95955,Andre Ayew,81,77,90,63,54,76
+4769,8689,SV Darmstadt 98,26343,Jeremie Janot,80,22,56,73,22,57
+4769,8689,SV Darmstadt 98,26392,Kevin Gameiro,83,88,88,68,23,88
+4769,8689,SV Darmstadt 98,46539,Laurent Koscielny,84,32,80,87,84,76
+4769,8689,SV Darmstadt 98,32572,Ludovic Giuly,87,81,87,83,38,80
+4769,8689,SV Darmstadt 98,40001,Michael Ciani,80,36,74,85,82,82
+10257,8690,SV Darmstadt 98,34531,Bernardo Corradi,81,79,78,78,39,81
+10257,8690,SV Darmstadt 98,30920,Edgar Barreto,77,69,78,80,69,79
+10257,8690,SV Darmstadt 98,24516,Emil Hallfredsson,77,64,75,77,68,75
+10257,8690,SV Darmstadt 98,39557,Francesco Cozza,81,86,70,91,66,79
+10257,8690,SV Darmstadt 98,27663,Franco Brienza,78,75,86,79,71,78
+21518,8696,SV Darmstadt 98,37581,Ezequiel Garay,83,48,71,87,88,73
+21518,8696,SV Darmstadt 98,41157,Giovani dos Santos,82,83,91,55,36,80
+21518,8696,SV Darmstadt 98,37512,Gonzalo Colsa,79,50,80,78,82,84
+21518,8696,SV Darmstadt 98,80497,Ivan Marcano,79,45,72,83,84,73
+21518,8696,SV Darmstadt 98,38403,Jorge Lopez,79,78,78,79,66,74
+21518,8696,SV Darmstadt 98,30832,Luis Garcia,85,89,81,71,45,78
+21518,8696,SV Darmstadt 98,30827,Markus Rosenberg,80,85,86,61,43,77
+7809,8697,SV Darmstadt 98,25366,Claudio Pizarro,84,90,80,73,25,88
+7809,8697,SV Darmstadt 98,31235,Diego,88,86,86,80,35,86
+7809,8697,SV Darmstadt 98,169200,Kevin de Bruyne,86,82,79,62,37,83
+7809,8697,SV Darmstadt 98,36378,Mesut Oezil,88,77,85,64,44,85
+7809,8697,SV Darmstadt 98,30616,Mikael Silvestre,82,35,79,75,81,70
+7809,8721,SV Darmstadt 98,26169,Aleksandr Hleb,84,74,83,77,38,84
+7809,8721,SV Darmstadt 98,30902,Andrea Barzagli,85,67,84,92,90,83
+7809,8721,SV Darmstadt 98,30819,Arne Friedrich,84,39,85,77,86,83
+7809,8721,SV Darmstadt 98,38432,Dante,84,56,74,85,85,77
+7809,8721,SV Darmstadt 98,31235,Diego,88,86,86,80,35,86
+7809,8721,SV Darmstadt 98,15403,Edin Dzeko,85,91,79,74,36,87
+7809,8721,SV Darmstadt 98,30764,Ivica Olic,84,86,88,79,41,89
+7809,8721,SV Darmstadt 98,169200,Kevin de Bruyne,86,82,79,62,37,83
+7809,8722,SV Darmstadt 98,26173,Faryd Mondragon,87,25,54,52,25,25
+7809,8722,SV Darmstadt 98,97491,Geromel,81,26,72,79,84,83
+7809,8722,SV Darmstadt 98,32118,Lukas Podolski,87,90,93,59,33,82
+7809,8722,SV Darmstadt 98,38492,Maniche,84,76,87,82,63,86
+7809,8722,SV Darmstadt 98,27284,Michael Rensing,79,25,63,25,25,25
+7809,8722,SV Darmstadt 98,38848,Milivoje Novakovic,79,89,73,67,43,84
+4769,9746,SV Darmstadt 98,41146,Cedric Faure,77,82,72,69,25,77
+4769,9746,SV Darmstadt 98,41186,Christophe Revault,78,22,51,47,22,25
+4769,9746,SV Darmstadt 98,103470,Jean-Armel Kana-Biyik,76,25,72,74,77,66
+4769,9746,SV Darmstadt 98,46656,Jean-Michel Lesage,75,85,78,58,61,72
+4769,9746,SV Darmstadt 98,103468,Johny Placide,75,25,53,31,34,61
+4769,9746,SV Darmstadt 98,46650,Kevin Anin,75,32,71,75,65,73
+4769,9747,SV Darmstadt 98,41146,Cedric Faure,77,82,72,69,25,77
+4769,9747,SV Darmstadt 98,71602,Claudio Beauvue,79,80,91,48,48,81
+4769,9747,SV Darmstadt 98,26330,Jimmy Briand,81,81,90,79,75,84
+4769,9747,SV Darmstadt 98,120598,Jonas Loessl,76,25,62,34,25,45
+4769,9747,SV Darmstadt 98,26374,Mevlut Erdinc,78,85,81,71,33,81
+4769,9748,SV Darmstadt 98,30931,Cris,89,59,82,85,90,90
+4769,9748,SV Darmstadt 98,26295,Hugo Lloris,86,25,68,27,25,65
+4769,9748,SV Darmstadt 98,30684,"Juninho Pernambucano,20",88,81,79,88,72,85
+4769,9748,SV Darmstadt 98,26166,Karim Benzema,87,90,90,74,40,87
+4769,9748,SV Darmstadt 98,30536,Lisandro Lopez,85,90,87,81,25,93
+13274,9761,SV Darmstadt 98,26450,Demy de Zeeuw,78,68,75,85,74,84
+13274,9761,SV Darmstadt 98,41165,Dirk Marcellis,75,25,66,79,80,70
+13274,9761,SV Darmstadt 98,27338,Ellery Cairo,76,67,85,63,11,72
+13274,9761,SV Darmstadt 98,62358,Eric Fernando Botteghin,77,29,50,82,84,39
+13274,9761,SV Darmstadt 98,33331,Julian Jenner,75,78,74,62,41,72
+17642,9764,SV Darmstadt 98,38888,Cesar Peixoto,75,63,78,76,68,75
+17642,9764,SV Darmstadt 98,29580,Evaldo,75,54,83,76,73,74
+17642,9764,SV Darmstadt 98,42568,Gladstone,76,48,50,61,81,32
+17642,9764,SV Darmstadt 98,186592,Hugo Vieira,74,76,89,22,24,81
+17642,9764,SV Darmstadt 98,172887,Junior Caicara,76,43,87,70,78,72
+17642,9764,SV Darmstadt 98,263260,Mauro,74,39,67,76,74,60
+17642,9765,SV Darmstadt 98,242889,Alhassan Wakaso,71,32,69,75,69,55
+17642,9765,SV Darmstadt 98,96968,Andre Pinto,77,34,71,77,78,69
+17642,9765,SV Darmstadt 98,38113,Claudio Lito,71,73,81,74,42,76
+17642,9765,SV Darmstadt 98,40957,Daniel Candeias,75,69,85,52,40,71
+17642,9765,SV Darmstadt 98,40959,Hugo Ventura,73,25,44,54,25,30
+17642,9765,SV Darmstadt 98,40967,Ivanildo,74,63,90,35,33,70
+17642,9768,SV Darmstadt 98,27694,Alberto Aquilani,83,72,80,84,65,82
+17642,9768,SV Darmstadt 98,38700,Florent Sinama-Pongolle,83,85,90,68,29,77
+17642,9768,SV Darmstadt 98,37549,Joao Moutinho,84,76,86,86,67,85
+17642,9768,SV Darmstadt 98,37401,Khalid Boulahrouz,83,25,77,75,84,72
+17642,9768,SV Darmstadt 98,40948,Liedson,84,88,86,85,48,92
+17642,9768,SV Darmstadt 98,38492,Maniche,84,76,87,82,63,86
+17642,9771,SV Darmstadt 98,150268,Andre Almeida,76,41,69,81,79,68
+17642,9771,SV Darmstadt 98,164238,Andre Santos,77,62,78,78,73,72
+17642,9771,SV Darmstadt 98,121881,Eduardo Gottardi,76,25,49,28,25,25
+17642,9771,SV Darmstadt 98,177126,Jan Oblak,82,25,43,25,25,25
+17642,9771,SV Darmstadt 98,29177,Leandrinho,78,72,86,75,52,76
+17642,9771,SV Darmstadt 98,49866,Manuel Iturra,78,27,74,85,71,52
+17642,9772,SV Darmstadt 98,46509,Angel Di Maria,86,75,91,72,61,84
+17642,9772,SV Darmstadt 98,52133,David Luiz,83,64,81,85,82,75
+17642,9772,SV Darmstadt 98,24415,David Suazo,83,82,92,69,31,84
+17642,9772,SV Darmstadt 98,37581,Ezequiel Garay,83,48,71,87,88,73
+17642,9772,SV Darmstadt 98,39122,Jonas,83,87,80,66,45,87
+17642,9772,SV Darmstadt 98,38821,Jose Antonio Reyes,85,79,87,82,24,84
+17642,9772,SV Darmstadt 98,30989,Julio Cesar,89,25,76,76,25,86
+17642,9773,SV Darmstadt 98,20276,Hulk,85,87,93,74,33,88
+17642,9773,SV Darmstadt 98,30657,Iker Casillas,91,25,71,87,25,52
+17642,9773,SV Darmstadt 98,164684,James Rodriguez,87,85,81,58,36,83
+17642,9773,SV Darmstadt 98,30536,Lisandro Lopez,85,90,87,81,25,93
+17642,9773,SV Darmstadt 98,40964,Lucho Gonzalez,85,78,79,87,67,84
+7809,9776,SV Darmstadt 98,29255,Dominik Kumbela,74,78,84,27,26,76
+7809,9776,SV Darmstadt 98,177942,Ermin Bicakcic,77,24,68,76,78,33
+7809,9776,SV Darmstadt 98,171548,Haavard Nielsen,72,75,89,45,45,74
+7809,9776,SV Darmstadt 98,208230,Karim Bellarabi,83,75,91,38,28,81
+7809,9776,SV Darmstadt 98,166932,Marcel Correia,72,38,64,73,72,49
+7809,9776,SV Darmstadt 98,25628,Marco Caligiuri,72,52,77,72,71,71
+7809,9776,SV Darmstadt 98,113902,Mirko Boland,72,68,85,70,60,69
+24558,9777,SV Darmstadt 98,40939,Carlos Saleiro,74,77,78,71,37,78
+24558,9777,SV Darmstadt 98,195706,Francois Moubandje,73,39,71,73,77,73
+24558,9777,SV Darmstadt 98,67401,Goran Karanovic,68,66,76,45,30,82
+24558,9777,SV Darmstadt 98,185704,Ishmael Yartey,69,61,91,28,25,67
+24558,9777,SV Darmstadt 98,51423,Julian Esteban,70,71,72,61,45,69
+21518,9783,SV Darmstadt 98,45744,Adrian Lopez,81,79,89,68,23,84
+21518,9783,SV Darmstadt 98,31045,Andres Guardado,82,77,90,79,71,75
+21518,9783,SV Darmstadt 98,30752,Carlos Marchena,83,65,81,81,87,86
+21518,9783,SV Darmstadt 98,41167,Filipe Luis,82,73,86,84,84,76
+21518,9783,SV Darmstadt 98,33761,Juan Carlos Valeron,86,76,81,88,25,85
+21518,9783,SV Darmstadt 98,34956,Mista,81,85,73,75,45,81
+7809,9788,SV Darmstadt 98,38432,Dante,84,56,74,85,85,77
+7809,9788,SV Darmstadt 98,207236,Granit Xhaka,82,58,72,76,71,79
+7809,9788,SV Darmstadt 98,184554,Marc-Andre ter Stegen,82,25,60,22,25,25
+7809,9788,SV Darmstadt 98,129944,Marco Reus,86,86,89,73,30,87
+7809,9788,SV Darmstadt 98,71353,Marko Marin,81,72,88,59,26,75
+7809,9788,SV Darmstadt 98,40735,Martin Stranzl,81,48,80,83,87,82
+7809,9788,SV Darmstadt 98,58346,Max Kruse,81,81,75,55,54,84
+7809,9789,SV Darmstadt 98,73167,Henrik Mkhitaryan,85,81,89,68,49,84
+7809,9789,SV Darmstadt 98,27335,Kevin-Prince Boateng,85,80,82,77,72,82
+7809,9789,SV Darmstadt 98,129944,Marco Reus,86,86,89,73,30,87
+7809,9789,SV Darmstadt 98,177714,Mario Goetze,86,82,84,55,25,86
+7809,9789,SV Darmstadt 98,36388,Mats Hummels,86,62,74,91,86,80
+7809,9790,SV Darmstadt 98,25524,Frank Rost,85,22,57,66,21,35
+7809,9790,SV Darmstadt 98,27461,Heiko Westermann,82,67,79,82,84,79
+7809,9790,SV Darmstadt 98,30764,Ivica Olic,84,86,88,79,41,89
+7809,9790,SV Darmstadt 98,24104,Jaroslav Drobny,82,36,64,77,25,41
+7809,9790,SV Darmstadt 98,36183,Jerome Boateng,87,37,79,84,84,72
+7809,9790,SV Darmstadt 98,30496,Mladen Petric,82,86,77,71,25,81
+13274,9791,SV Darmstadt 98,104045,Bas Dost,79,86,68,70,29,87
+13274,9791,SV Darmstadt 98,178762,Lerin Duarte,74,63,86,68,57,72
+13274,9791,SV Darmstadt 98,212819,Mark Uth,74,73,77,46,24,80
+13274,9791,SV Darmstadt 98,150119,Marko Vejinovic,77,60,68,71,64,74
+13274,9791,SV Darmstadt 98,30921,Matthew Amoah,74,83,82,73,27,85
+1729,9798,SV Darmstadt 98,119079,Alex McCarthy,75,25,59,22,36,50
+1729,9798,SV Darmstadt 98,40940,Daniel Carrico,80,63,76,84,80,76
+1729,9798,SV Darmstadt 98,40565,Danny Guthrie,75,63,75,75,59,77
+1729,9798,SV Darmstadt 98,33615,Ian Harte,74,63,68,72,73,73
+1729,9798,SV Darmstadt 98,34176,Jason Roberts,76,79,81,68,35,79
+1729,9798,SV Darmstadt 98,24754,Jobi McAnuff,74,65,81,71,62,69
+19694,9800,SV Darmstadt 98,231592,Aaron Mooy,75,69,76,63,56,73
+19694,9800,SV Darmstadt 98,32674,Craig Dargo,77,83,80,62,31,64
+19694,9800,SV Darmstadt 98,23781,Eric Djemba-Djemba,74,57,71,59,77,62
+19694,9800,SV Darmstadt 98,32968,John Potter,75,78,74,71,66,84
+19694,9800,SV Darmstadt 98,32457,Lee Mair,73,40,61,60,74,58
+13274,9803,SV Darmstadt 98,240235,Danilo Pereira,80,50,69,85,78,67
+13274,9803,SV Darmstadt 98,30667,Eric Addo,73,32,79,69,71,77
+13274,9803,SV Darmstadt 98,45830,Frank Demouge,73,85,68,76,55,80
+13274,9803,SV Darmstadt 98,157901,Jagos Vukovic,74,27,61,75,76,56
+13274,9803,SV Darmstadt 98,26612,Mads Junker,75,86,80,65,28,82
+10257,9804,SV Darmstadt 98,41269,Alessio Cerci,82,79,88,67,30,82
+10257,9804,SV Darmstadt 98,38827,Amauri,85,90,82,81,43,85
+10257,9804,SV Darmstadt 98,39367,Antonio Nocerino,82,78,82,82,77,82
+10257,9804,SV Darmstadt 98,27661,Eugenio Corini,84,77,78,83,68,83
+10257,9804,SV Darmstadt 98,39540,Fabio Quagliarella,83,85,88,80,39,85
+10257,9804,SV Darmstadt 98,150670,Kamil Glik,82,25,63,86,85,38
+10257,9804,SV Darmstadt 98,39323,Matteo Sereni,83,23,52,66,29,75
+17642,9807,SV Darmstadt 98,24385,Abel Aguilar,77,70,69,81,68,82
+17642,9807,SV Darmstadt 98,150064,Baiano,77,57,82,78,80,70
+17642,9807,SV Darmstadt 98,37548,Carlos Martins,79,73,76,75,61,76
+17642,9807,SV Darmstadt 98,78544,Lima,80,82,79,68,45,82
+17642,9807,SV Darmstadt 98,164128,Miguel Rosa,78,72,78,48,32,78
+17642,9809,SV Darmstadt 98,25929,Bruno Moraes,72,71,72,25,21,71
+17642,9809,SV Darmstadt 98,106175,Diego Angelo,73,52,66,75,79,69
+17642,9809,SV Darmstadt 98,164241,Joao Pedro,71,67,76,29,24,69
+17642,9809,SV Darmstadt 98,150299,Joao Real,71,40,66,74,74,55
+17642,9809,SV Darmstadt 98,38502,Marcelinho,71,70,76,50,29,76
+17642,9809,SV Darmstadt 98,112801,Marinho,72,66,92,57,53,70
+7809,9810,SV Darmstadt 98,27476,Aleksandar Vasoski,77,27,74,69,81,71
+7809,9810,SV Darmstadt 98,27478,Alexander Meier,79,85,79,71,44,86
+7809,9810,SV Darmstadt 98,106309,Carlos Zambrano,77,50,72,75,78,65
+7809,9810,SV Darmstadt 98,18904,David Abraham,77,55,74,76,77,62
+7809,9810,SV Darmstadt 98,35997,Halil Altintop,81,84,84,67,25,81
+7809,9810,SV Darmstadt 98,170775,Haris Seferovic,77,80,69,36,45,79
+7809,9810,SV Darmstadt 98,27481,Ioannis Amanatidis,78,81,82,61,34,74
+7809,9810,SV Darmstadt 98,145550,Kevin Trapp,82,25,56,52,25,49
+7809,9810,SV Darmstadt 98,267380,Lucas Piazon,77,74,78,32,25,72
+1729,9817,SV Darmstadt 98,41365,Etienne Capoue,79,57,74,81,82,83
+1729,9817,SV Darmstadt 98,30455,Heurelho Gomes,83,40,65,65,35,86
+1729,9817,SV Darmstadt 98,37411,Jose Manuel Jurado,80,76,82,82,27,78
+1729,9817,SV Darmstadt 98,37631,Mario Suarez,80,69,75,85,77,76
+1729,9817,SV Darmstadt 98,71724,Miguel Layun,78,68,89,78,72,76
+7809,9823,SV Darmstadt 98,30834,Arjen Robben,90,85,96,72,29,89
+7809,9823,SV Darmstadt 98,30924,Franck Ribery,90,81,94,88,25,86
+7809,9823,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+7809,9823,SV Darmstadt 98,39774,Lucio,89,52,85,89,91,86
+7809,9823,SV Darmstadt 98,27299,Manuel Neuer,90,25,58,50,25,39
+24558,9824,SV Darmstadt 98,209371,Ali Messaoud,67,64,67,34,25,67
+24558,9824,SV Darmstadt 98,25813,Florian Stahel,69,51,74,66,72,73
+24558,9824,SV Darmstadt 98,294256,Levent Guelen,69,24,77,64,70,54
+24558,9824,SV Darmstadt 98,32343,Markus Neumayr,67,68,71,53,38,66
+24558,9824,SV Darmstadt 98,301167,Mauro Caballero,68,70,76,21,17,71
+24558,9824,SV Darmstadt 98,113227,Moreno Costanzo,69,72,68,63,47,81
+1729,9825,SV Darmstadt 98,30613,Cesc Fabregas,89,83,77,90,73,93
+1729,9825,SV Darmstadt 98,30960,Emmanuel Adebayor,87,90,84,69,23,87
+1729,9825,SV Darmstadt 98,30648,Jens Lehmann,88,21,57,81,21,58
+1729,9825,SV Darmstadt 98,32118,Lukas Podolski,87,90,93,59,33,82
+1729,9825,SV Darmstadt 98,36378,Mesut Oezil,88,77,85,64,44,85
+1729,9826,SV Darmstadt 98,26777,Brede Hangeland,83,44,70,89,86,89
+1729,9826,SV Darmstadt 98,31953,Cameron Jerome,78,84,90,68,45,79
+1729,9826,SV Darmstadt 98,130670,Chung-Yong Lee,78,76,84,74,42,76
+1729,9826,SV Darmstadt 98,24744,Daniel Gabbidon,78,44,82,74,74,77
+1729,9826,SV Darmstadt 98,30960,Emmanuel Adebayor,87,90,84,69,23,87
+1729,9826,SV Darmstadt 98,25537,Marouane Chamakh,82,82,81,84,75,86
+4769,9827,SV Darmstadt 98,26142,Carlos Henrique,82,50,73,75,84,77
+4769,9827,SV Darmstadt 98,26168,Cedric Carrasso,83,25,62,73,25,58
+4769,9827,SV Darmstadt 98,40710,Fernando Cavenaghi,82,93,81,87,55,94
+4769,9827,SV Darmstadt 98,154232,Grzegorz Krychowiak,82,44,69,86,83,52
+4769,9827,SV Darmstadt 98,26119,Marc Planus,84,39,72,78,87,82
+4769,9827,SV Darmstadt 98,25537,Marouane Chamakh,82,82,81,84,75,86
+4769,9829,SV Darmstadt 98,27430,Dimitar Berbatov,86,92,85,78,25,89
+4769,9829,SV Darmstadt 98,33074,Eidur Gudjohnsen,86,88,78,84,42,83
+4769,9829,SV Darmstadt 98,164684,James Rodriguez,87,85,81,58,36,83
+4769,9829,SV Darmstadt 98,30841,Maarten Stekelenburg,85,42,64,62,28,71
+4769,9829,SV Darmstadt 98,37259,Mahamadou Diarra,87,65,76,88,84,83
+4769,9830,SV Darmstadt 98,106292,Filip Djordjevic,80,84,78,64,35,86
+4769,9830,SV Darmstadt 98,30753,Ivan Klasnic,83,82,82,71,23,83
+4769,9830,SV Darmstadt 98,26313,Jerome Alonzo,78,25,54,60,25,26
+4769,9830,SV Darmstadt 98,37756,Johan Audel,78,84,84,70,33,78
+4769,9830,SV Darmstadt 98,26171,Lorik Cana,81,32,80,82,80,82
+4769,9830,SV Darmstadt 98,26778,Michael Gravgaard,81,29,70,75,78,74
+4769,9831,SV Darmstadt 98,40659,Anthony Mounier,79,75,91,74,41,76
+4769,9831,SV Darmstadt 98,32566,Camel Meriem,79,64,73,48,29,68
+4769,9831,SV Darmstadt 98,30908,Emerse Fae,80,61,88,76,73,76
+4769,9831,SV Darmstadt 98,26162,Francois Clerc,79,43,79,75,81,79
+4769,9831,SV Darmstadt 98,26163,Hatem Ben Arfa,82,82,86,78,33,80
+4769,9831,SV Darmstadt 98,39987,Loic Remy,83,84,91,72,23,81
+4769,9831,SV Darmstadt 98,26155,Mathieu Bodmer,82,79,84,85,77,81
+4769,9836,SV Darmstadt 98,37280,Abdoulaye Meite,79,40,63,70,76,53
+4769,9836,SV Darmstadt 98,210404,Benjamin Corgnet,76,73,84,71,73,72
+4769,9836,SV Darmstadt 98,26287,Cedric Varrault,76,46,70,74,79,66
+4769,9836,SV Darmstadt 98,30526,Daisuke Matsui,75,74,79,72,34,73
+4769,9836,SV Darmstadt 98,210406,Eric Bautheac,75,78,81,42,35,72
+4769,9836,SV Darmstadt 98,163205,Gael Kakuta,76,68,84,47,23,69
+4769,9837,SV Darmstadt 98,210683,Aissa Mandi,79,41,77,79,82,67
+4769,9837,SV Darmstadt 98,256727,Alhassane Bangoura,77,68,93,36,25,79
+4769,9837,SV Darmstadt 98,131995,Benjamin Moukandjo,77,80,91,41,25,78
+4769,9837,SV Darmstadt 98,41175,David Ngog,78,80,85,74,26,78
+4769,9837,SV Darmstadt 98,154232,Grzegorz Krychowiak,82,44,69,86,83,52
+4769,9837,SV Darmstadt 98,30900,Kossi Agassa,80,25,67,71,25,73
+13274,9839,SV Darmstadt 98,232103,Ahmed Musa,76,79,95,25,25,79
+13274,9839,SV Darmstadt 98,36013,Dennis Gentenaar,73,25,62,70,30,41
+13274,9839,SV Darmstadt 98,163824,Josue,77,71,83,55,56,74
+13274,9839,SV Darmstadt 98,72656,Keisuke Honda,81,80,84,72,73,85
+13274,9839,SV Darmstadt 98,72665,Maya Yoshida,73,34,72,74,77,42
+4769,9847,SV Darmstadt 98,26564,Alex,87,51,91,85,86,84
+4769,9847,SV Darmstadt 98,30612,David Beckham,87,72,78,85,66,87
+4769,9847,SV Darmstadt 98,49677,Edinson Cavani,87,90,84,75,51,90
+4769,9847,SV Darmstadt 98,39989,Gregory Coupet,92,21,55,68,21,45
+4769,9847,SV Darmstadt 98,32572,Ludovic Giuly,87,81,87,83,38,80
+1729,9850,SV Darmstadt 98,38369,Dieumerci Mbokani,79,84,85,54,27,79
+1729,9850,SV Darmstadt 98,194165,Harry Kane,82,85,74,35,41,84
+1729,9850,SV Darmstadt 98,34261,Johan Elmander,85,88,81,75,31,81
+1729,9850,SV Darmstadt 98,40602,John Ruddy,79,25,65,54,25,60
+1729,9850,SV Darmstadt 98,33852,Jonas Gutierrez,79,69,82,73,72,80
+1729,9850,SV Darmstadt 98,24004,Joseph Yobo,81,33,87,81,80,86
+4769,9851,SV Darmstadt 98,39978,Alou Diarra,81,58,72,86,85,86
+4769,9851,SV Darmstadt 98,41980,Asamoah Gyan,81,85,83,71,56,82
+4769,9851,SV Darmstadt 98,11319,Benoit Costil,81,25,49,44,25,42
+4769,9851,SV Darmstadt 98,25572,Jean Makoun,82,60,79,86,86,85
+4769,9851,SV Darmstadt 98,26330,Jimmy Briand,81,81,90,79,75,84
+4769,9851,SV Darmstadt 98,30885,John Mensah,84,38,68,77,90,86
+4769,9851,SV Darmstadt 98,26172,Mickael Pagis,82,91,66,78,22,85
+4769,9853,SV Darmstadt 98,26344,Bafetimbi Gomis,82,89,92,77,41,80
+4769,9853,SV Darmstadt 98,26419,Blaise Matuidi,84,65,81,90,84,78
+4769,9853,SV Darmstadt 98,25496,Dimitri Payet,84,79,85,73,29,79
+4769,9853,SV Darmstadt 98,38700,Florent Sinama-Pongolle,83,85,90,68,29,77
+4769,9853,SV Darmstadt 98,26353,Loic Perrin,82,66,74,84,86,74
+4769,9853,SV Darmstadt 98,26155,Mathieu Bodmer,82,79,84,85,77,81
+4769,9855,SV Darmstadt 98,26223,Bostjan Cesar,77,40,62,83,82,57
+4769,9855,SV Darmstadt 98,33599,Daniel Moreira,81,87,79,76,32,81
+4769,9855,SV Darmstadt 98,38773,Danijel Ljuboja,77,75,74,70,25,78
+4769,9855,SV Darmstadt 98,30676,David Jemmali,77,29,76,77,84,84
+4769,9855,SV Darmstadt 98,5217,Laurent Batlles,77,68,73,68,33,67
+10257,9857,SV Darmstadt 98,30881,Alberto Gilardino,85,93,83,78,28,95
+10257,9857,SV Darmstadt 98,41475,Alessandro Diamanti,83,73,82,68,55,79
+10257,9857,SV Darmstadt 98,167634,Emanuele Giaccherini,80,66,92,72,60,80
+10257,9857,SV Darmstadt 98,41671,Emiliano Viviano,80,38,45,38,25,25
+10257,9857,SV Darmstadt 98,190872,Gaston Ramirez,80,75,84,40,35,78
+10257,9857,SV Darmstadt 98,40962,Ibson,81,74,84,90,70,86
+10257,9857,SV Darmstadt 98,50074,Juan Camilo Zuniga,80,56,89,71,73,78
+10257,9857,SV Darmstadt 98,32749,Marco Di Vaio,84,86,84,79,28,87
+10257,9858,SV Darmstadt 98,39762,Alessandro Budel,80,65,69,68,75,74
+10257,9858,SV Darmstadt 98,41475,Alessandro Diamanti,83,73,82,68,55,79
+10257,9858,SV Darmstadt 98,31739,Cristiano Zanetti,82,72,74,85,84,84
+10257,9858,SV Darmstadt 98,128732,Jonathas,79,84,75,58,33,83
+10257,9858,SV Darmstadt 98,39323,Matteo Sereni,83,23,52,66,29,75
+19694,9860,SV Darmstadt 98,32593,Andrew Driver,78,66,91,63,50,71
+19694,9860,SV Darmstadt 98,39223,Andy Webster,74,39,69,72,75,63
+19694,9860,SV Darmstadt 98,47553,Blazey Augustyn,74,44,68,74,75,74
+19694,9860,SV Darmstadt 98,32581,Christophe Berra,76,35,68,74,77,61
+19694,9860,SV Darmstadt 98,23317,David Templeton,74,74,82,61,55,72
+19694,9860,SV Darmstadt 98,30335,Laryea Kingston,80,63,78,67,60,70
+19694,9860,SV Darmstadt 98,32583,Lee Wallace,74,46,84,71,78,63
+19694,9860,SV Darmstadt 98,38449,Miguel Pallardo,74,61,75,82,79,77
+21518,9864,SV Darmstadt 98,25563,Carlos Kameni,82,25,44,32,25,25
+21518,9864,SV Darmstadt 98,42168,Diego Lugano,82,47,76,82,89,85
+21518,9864,SV Darmstadt 98,31047,Guillermo Ochoa,82,25,87,68,25,69
+21518,9864,SV Darmstadt 98,191315,Isco,84,78,83,53,46,82
+21518,9864,SV Darmstadt 98,39990,Jeremy Toulalan,84,27,74,92,84,87
+21518,9864,SV Darmstadt 98,37824,Joaquin,88,74,89,78,60,82
+21518,9864,SV Darmstadt 98,38822,Julio Baptista,82,86,81,82,60,82
+21518,9864,SV Darmstadt 98,30459,Martin Demichelis,85,43,72,86,85,77
+21518,9865,SV Darmstadt 98,189192,Aleix Vidal,79,67,90,73,68,73
+21518,9865,SV Darmstadt 98,75310,Alvaro Negredo,84,86,81,82,36,86
+21518,9865,SV Darmstadt 98,96613,Diego Alves,83,25,57,67,25,69
+21518,9865,SV Darmstadt 98,18384,Diego Valeri,78,72,79,79,33,79
+21518,9865,SV Darmstadt 98,38241,Helder Barbosa,78,73,86,66,43,76
+21518,9865,SV Darmstadt 98,43329,Kalu Uche,80,77,86,77,36,74
+21518,9867,SV Darmstadt 98,38131,Alejandro Alfaro,75,78,76,74,47,83
+21518,9867,SV Darmstadt 98,75354,Ayoze Garcia Perez,74,80,82,70,34,81
+21518,9867,SV Darmstadt 98,40600,Daniel Kome,74,73,86,70,22,68
+21518,9867,SV Darmstadt 98,75376,Julian Ramos Omar,74,66,84,69,58,72
+21518,9867,SV Darmstadt 98,21450,Marc Bertran,74,39,78,84,74,79
+21518,9867,SV Darmstadt 98,33964,Mikel Alonso,75,70,75,79,71,77
+21518,9868,SV Darmstadt 98,18784,Emiliano Daniel Armenteros,75,70,75,65,48,81
+21518,9868,SV Darmstadt 98,49836,Fabian Orellana,80,75,87,68,25,75
+21518,9868,SV Darmstadt 98,49672,Giancarlo Maldonado,77,84,80,73,61,80
+21518,9868,SV Darmstadt 98,99333,Jose Manuel Casado,75,52,83,77,74,61
+21518,9868,SV Darmstadt 98,102619,Mario Bermejo,76,80,79,74,34,84
+21518,9868,SV Darmstadt 98,37510,Momo,75,76,76,64,38,76
+21518,9869,SV Darmstadt 98,107929,Alberto Botia,77,56,69,77,78,75
+21518,9869,SV Darmstadt 98,395154,Alen Halilovic,77,62,83,55,50,75
+21518,9869,SV Darmstadt 98,24383,Diego Castro,79,77,88,70,38,81
+21518,9869,SV Darmstadt 98,101070,Gregory Arnolin,78,52,66,82,73,70
+21518,9869,SV Darmstadt 98,541557,Jony,77,78,87,52,55,77
+21518,9869,SV Darmstadt 98,75195,Juan Pablo,77,21,62,47,21,34
+21518,9869,SV Darmstadt 98,78404,Michel,77,67,72,82,77,73
+21518,9869,SV Darmstadt 98,38886,Miguel Angel de las Cuevas,77,68,81,77,50,75
+4769,9873,SV Darmstadt 98,25664,Dianbobo Balde,78,22,57,69,76,64
+4769,9873,SV Darmstadt 98,26308,Jacques Abardonado,78,41,58,66,79,73
+4769,9873,SV Darmstadt 98,26123,Jean-Claude Darcheville,78,81,88,67,23,71
+4769,9873,SV Darmstadt 98,37756,Johan Audel,78,84,84,70,33,78
+4769,9873,SV Darmstadt 98,40016,Milan Bisevac,79,43,66,84,81,78
+4769,9874,SV Darmstadt 98,58499,Bojan Jokic,76,67,79,77,77,68
+4769,9874,SV Darmstadt 98,115160,Brown Ideye,76,81,81,54,26,79
+4769,9874,SV Darmstadt 98,201939,Cedric Bakambu,80,82,87,39,30,84
+4769,9874,SV Darmstadt 98,79246,Giovanni Sio,76,80,92,33,34,76
+4769,9874,SV Darmstadt 98,154280,Jordan Ayew,76,78,82,57,23,74
+4769,9874,SV Darmstadt 98,147958,Marvin Martin,80,65,82,73,39,77
+4769,9874,SV Darmstadt 98,26374,Mevlut Erdinc,78,85,81,71,33,81
+4769,9874,SV Darmstadt 98,91560,Modibo Maiga,78,79,79,28,25,76
+10257,9875,SV Darmstadt 98,25337,Cristiano Lucarelli,85,91,76,87,25,85
+10257,9875,SV Darmstadt 98,49677,Edinson Cavani,87,90,84,75,51,90
+10257,9875,SV Darmstadt 98,18925,Ezequiel Lavezzi,86,85,95,75,34,82
+10257,9875,SV Darmstadt 98,25759,Gonzalo Higuain,86,92,90,79,28,91
+10257,9875,SV Darmstadt 98,41658,Marek Hamsik,85,83,82,82,62,86
+10257,9876,SV Darmstadt 98,41629,Francelino Matuzalem,79,75,76,80,59,82
+10257,9876,SV Darmstadt 98,24549,Giampaolo Pazzini,84,91,87,83,28,91
+10257,9876,SV Darmstadt 98,37576,Javier Saviola,81,85,88,80,23,85
+10257,9876,SV Darmstadt 98,282775,Jorginho,79,64,83,78,63,74
+10257,9876,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+10257,9876,SV Darmstadt 98,39194,Massimo Donati,82,53,71,76,74,64
+10257,9878,SV Darmstadt 98,39745,Elvis Abbruscato,78,79,76,69,32,74
+10257,9878,SV Darmstadt 98,39644,Gaetano D'Agostino,83,65,73,85,68,87
+10257,9878,SV Darmstadt 98,37767,Giuseppe Sculli,78,78,83,81,55,80
+10257,9878,SV Darmstadt 98,128732,Jonathas,79,84,75,58,33,83
+10257,9878,SV Darmstadt 98,207617,Juan Quintero,78,69,79,35,33,67
+10257,9878,SV Darmstadt 98,41887,Manuele Blasi,78,67,85,74,77,78
+10257,9878,SV Darmstadt 98,181910,Mattia Perin,81,26,67,34,34,46
+1729,9879,SV Darmstadt 98,31907,Andrew Johnson,85,92,93,79,34,85
+1729,9879,SV Darmstadt 98,23949,Darren Bent,85,90,94,77,31,88
+1729,9879,SV Darmstadt 98,27430,Dimitar Berbatov,86,92,85,78,25,89
+1729,9879,SV Darmstadt 98,33074,Eidur Gudjohnsen,86,88,78,84,42,83
+1729,9879,SV Darmstadt 98,30841,Maarten Stekelenburg,85,42,64,62,28,71
+1729,9879,SV Darmstadt 98,37259,Mahamadou Diarra,87,65,76,88,84,83
+10257,9880,SV Darmstadt 98,39311,Adrian Mutu,85,92,88,80,21,87
+10257,9880,SV Darmstadt 98,11685,Antonio Candreva,83,75,87,76,58,78
+10257,9880,SV Darmstadt 98,167634,Emanuele Giaccherini,80,66,92,72,60,80
+10257,9880,SV Darmstadt 98,39306,Luis Jimenez,81,79,85,77,55,75
+10257,9880,SV Darmstadt 98,73999,Marco Parolo,81,75,74,82,71,84
+10257,9882,SV Darmstadt 98,25526,Andrea Ranocchia,82,32,70,86,84,67
+10257,9882,SV Darmstadt 98,27702,Angelo Palombo,82,76,75,85,80,86
+10257,9882,SV Darmstadt 98,32748,Antonio Cassano,86,87,83,80,25,86
+10257,9882,SV Darmstadt 98,39540,Fabio Quagliarella,83,85,88,80,39,85
+10257,9882,SV Darmstadt 98,24549,Giampaolo Pazzini,84,91,87,83,28,91
+10257,9882,SV Darmstadt 98,42388,Hugo Campagnaro,82,55,80,87,87,74
+10257,9885,SV Darmstadt 98,30728,David Trezeguet,90,94,84,90,22,92
+10257,9885,SV Darmstadt 98,34520,Fabio Cannavaro,91,21,84,93,96,94
+10257,9885,SV Darmstadt 98,30717,Gianluigi Buffon,93,25,62,90,25,25
+10257,9885,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+10257,9885,SV Darmstadt 98,39774,Lucio,89,52,85,89,91,86
+10257,9888,SV Darmstadt 98,27665,David Di Michele,82,79,82,81,54,82
+10257,9888,SV Darmstadt 98,42325,Dimitrios Papadopoulos,82,81,84,65,34,77
+10257,9888,SV Darmstadt 98,34969,Javier Chevanton,82,87,82,72,24,81
+10257,9888,SV Darmstadt 98,155066,Juan Cuadrado,83,76,92,69,68,80
+10257,9888,SV Darmstadt 98,30711,Massimo Oddo,81,69,82,85,74,83
+10257,9891,SV Darmstadt 98,39345,Aleandro Rosi,73,62,80,71,70,70
+10257,9891,SV Darmstadt 98,42052,Daniel Ciofani,72,75,69,29,25,79
+10257,9891,SV Darmstadt 98,181921,Federico Dionisi,72,75,77,60,25,84
+10257,9891,SV Darmstadt 98,181920,Francesco Bardi,75,25,57,25,25,25
+10257,9891,SV Darmstadt 98,39331,Modibo Diakite,77,30,74,77,80,67
+7809,9904,SV Darmstadt 98,30922,Arouna Kone,80,82,88,58,35,83
+7809,9904,SV Darmstadt 98,39840,Jan Schlaudraff,80,77,88,59,42,79
+7809,9904,SV Darmstadt 98,26330,Jimmy Briand,81,81,90,79,75,84
+7809,9904,SV Darmstadt 98,25990,Joao Pereira,80,65,87,78,77,79
+7809,9904,SV Darmstadt 98,30986,Johan Djourou,81,54,77,81,81,69
+7809,9904,SV Darmstadt 98,94916,Lars Stindl,80,81,76,74,68,82
+7809,9905,SV Darmstadt 98,178812,Andre Schuerrle,81,86,92,65,33,80
+7809,9905,SV Darmstadt 98,30753,Ivan Klasnic,83,82,82,71,23,83
+7809,9905,SV Darmstadt 98,287894,Loris Karius,80,25,60,39,25,25
+7809,9905,SV Darmstadt 98,35990,Mohamed Zidan,80,87,85,64,32,75
+7809,9905,SV Darmstadt 98,25611,Morten Duncan Rasmussen,80,92,62,85,29,88
+21518,9906,SV Darmstadt 98,182917,David De Gea,87,25,51,30,25,25
+21518,9906,SV Darmstadt 98,30909,David Villa,89,94,88,87,42,93
+21518,9906,SV Darmstadt 98,31235,Diego,88,86,86,80,35,86
+21518,9906,SV Darmstadt 98,38460,Diego Forlan,87,93,87,78,22,86
+21518,9906,SV Darmstadt 98,30853,Fernando Torres,88,95,95,79,21,95
+21518,9906,SV Darmstadt 98,39989,Gregory Coupet,92,21,55,68,21,45
+13274,9908,SV Darmstadt 98,46104,Dries Mertens,82,79,92,68,34,77
+13274,9908,SV Darmstadt 98,114558,Kevin Strootman,81,67,68,82,70,78
+13274,9908,SV Darmstadt 98,42592,Khalid Sinouh,76,22,52,68,22,43
+13274,9908,SV Darmstadt 98,27320,Matthieu Delpierre,82,32,73,77,87,79
+13274,9908,SV Darmstadt 98,37193,Michel Vorm,81,27,72,52,34,69
+21518,9910,SV Darmstadt 98,72623,Augusto Fernandez,79,74,71,74,36,84
+21518,9910,SV Darmstadt 98,31092,Chu-Young Park,79,85,90,70,21,82
+21518,9910,SV Darmstadt 98,71602,Claudio Beauvue,79,80,91,48,48,81
+21518,9910,SV Darmstadt 98,49836,Fabian Orellana,80,75,87,68,25,75
+21518,9910,SV Darmstadt 98,39215,Michael Krohn-Dehli,79,66,80,72,44,80
+7809,9911,SV Darmstadt 98,43061,Christian Fuchs,77,64,76,76,75,74
+7809,9911,SV Darmstadt 98,31299,Daniel Fernandes,77,21,55,40,21,25
+7809,9911,SV Darmstadt 98,27514,Diego Klimowicz,81,88,72,67,46,77
+7809,9911,SV Darmstadt 98,128827,Lewis Holtby,79,74,82,71,61,77
+7809,9911,SV Darmstadt 98,39892,Marcel Maltritz,78,36,73,69,72,68
+7809,9912,SV Darmstadt 98,38170,Andre Mijatovic,73,61,58,66,75,67
+7809,9912,SV Darmstadt 98,30266,Artur Wichniarek,78,87,85,64,21,83
+7809,9912,SV Darmstadt 98,47551,"Chris Katongo,30",78,82,88,70,23,77
+7809,9912,SV Darmstadt 98,24138,Daniel Halfar,73,71,84,57,39,63
+7809,9912,SV Darmstadt 98,36058,Dennis Eilhoff,79,20,69,52,24,37
+7809,9912,SV Darmstadt 98,37201,Michael Lamey,74,64,79,74,78,67
+19694,9925,SV Darmstadt 98,32448,Aiden McGeady,83,72,92,68,34,72
+19694,9925,SV Darmstadt 98,30974,Artur Boruc,84,25,41,63,25,25
+19694,9925,SV Darmstadt 98,30425,Daniel Majstorovic,84,48,62,83,85,75
+19694,9925,SV Darmstadt 98,30624,Fredrik Ljungberg,84,76,85,70,47,82
+19694,9925,SV Darmstadt 98,37798,Jan Vennegoor of Hesselink,85,90,71,73,32,87
+19694,9927,SV Darmstadt 98,37780,Darren Randolph,73,29,66,57,31,50
+19694,9927,SV Darmstadt 98,24002,James McFadden,78,75,84,67,25,79
+19694,9927,SV Darmstadt 98,40602,John Ruddy,79,25,65,54,25,60
+19694,9927,SV Darmstadt 98,32844,Mark Reynolds,74,25,75,72,76,63
+19694,9927,SV Darmstadt 98,10984,Maros Klimpl,73,40,72,80,72,72
+24558,9930,SV Darmstadt 98,168727,Artur Ionita,74,67,68,74,74,70
+24558,9930,SV Darmstadt 98,34054,Baykal Kulaksizoglu,71,48,68,58,64,66
+24558,9930,SV Darmstadt 98,30919,Daniel Gygax,74,69,90,53,32,81
+24558,9930,SV Darmstadt 98,39136,Dusan Djuric,74,72,79,64,58,70
+24558,9930,SV Darmstadt 98,210822,Lars Unnerstall,74,25,37,23,25,25
+24558,9930,SV Darmstadt 98,37383,Martin Stoll,71,44,69,64,69,54
+24558,9931,SV Darmstadt 98,34102,Alexander Frei,81,91,79,75,24,84
+24558,9931,SV Darmstadt 98,73448,Eren Derdiyok,79,81,79,60,25,79
+24558,9931,SV Darmstadt 98,207236,Granit Xhaka,82,58,72,76,71,79
+24558,9931,SV Darmstadt 98,34035,Matias Emilio Delgado,80,73,72,81,51,78
+24558,9931,SV Darmstadt 98,292462,Mohamed Salah,80,77,92,59,47,77
+19694,9938,SV Darmstadt 98,39223,Andy Webster,74,39,69,72,75,63
+19694,9938,SV Darmstadt 98,33693,Craig Conway,74,66,78,51,36,65
+19694,9938,SV Darmstadt 98,32465,David Goodwillie,75,84,82,49,25,78
+19694,9938,SV Darmstadt 98,20747,Eiji Kawashima,74,14,63,23,22,11
+19694,9938,SV Darmstadt 98,38700,Florent Sinama-Pongolle,83,85,90,68,29,77
+19694,9938,SV Darmstadt 98,30668,Guy Demel,78,22,75,75,77,64
+19694,9938,SV Darmstadt 98,41067,Mark Wilson,74,68,74,72,74,75
+4769,9941,SV Darmstadt 98,38098,Andre-Pierre Gignac,82,87,80,74,22,84
+4769,9941,SV Darmstadt 98,192770,Aymen Abdennour,81,55,76,82,83,53
+4769,9941,SV Darmstadt 98,26168,Cedric Carrasso,83,25,62,73,25,58
+4769,9941,SV Darmstadt 98,26403,Jeremy Mathieu,83,52,77,85,83,79
+4769,9941,SV Darmstadt 98,94550,Moussa Sissoko,80,72,85,78,77,84
+24558,9956,SV Darmstadt 98,192504,Alexander Merkel,75,56,78,41,37,72
+24558,9956,SV Darmstadt 98,30464,Boris Smiljanic,80,69,71,71,80,75
+24558,9956,SV Darmstadt 98,80564,Caio,75,73,75,71,41,77
+24558,9956,SV Darmstadt 98,177475,Izet Hajrovic,75,70,82,50,43,75
+24558,9956,SV Darmstadt 98,33681,Johan Vonlanthen,78,75,80,83,34,77
+24558,9956,SV Darmstadt 98,39979,Kim Kaellstroem,83,77,82,82,67,82
+24558,9956,SV Darmstadt 98,39559,Mario Frick,76,84,69,78,28,81
+10257,9976,SV Darmstadt 98,25526,Andrea Ranocchia,82,32,70,86,84,67
+10257,9976,SV Darmstadt 98,27733,Barreto,80,79,89,74,35,85
+10257,9976,SV Darmstadt 98,150670,Kamil Glik,82,25,63,86,85,38
+10257,9976,SV Darmstadt 98,24235,Leonardo Bonucci,83,54,75,86,84,71
+10257,9976,SV Darmstadt 98,39194,Massimo Donati,82,53,71,76,74,64
+1,9984,SV Darmstadt 98,33074,Eidur Gudjohnsen,86,88,78,84,42,83
+1,9984,SV Darmstadt 98,38786,Faris Haroun,72,72,76,59,43,74
+1,9984,SV Darmstadt 98,38789,Hans Cornelis,71,62,72,68,71,64
+1,9984,SV Darmstadt 98,38782,Jelle Vossen,76,86,64,60,39,83
+1,9984,SV Darmstadt 98,12692,Kanu,71,65,72,63,48,72
+1,9984,SV Darmstadt 98,41463,Maarten Martens,76,67,76,76,43,78
+1,9985,SV Darmstadt 98,39591,Axel Witsel,81,75,69,85,70,82
+1,9985,SV Darmstadt 98,148315,Christian Benteke,82,84,82,48,25,81
+1,9985,SV Darmstadt 98,38369,Dieumerci Mbokani,79,84,85,54,27,79
+1,9985,SV Darmstadt 98,156551,Eliaquim Mangala,81,52,78,84,79,58
+1,9985,SV Darmstadt 98,248689,Michy Batshuayi,79,83,83,23,25,84
+1,9985,SV Darmstadt 98,37262,Milan Jovanovic,80,81,89,68,45,80
+1,9986,SV Darmstadt 98,41146,Cedric Faure,77,82,72,69,25,77
+1,9986,SV Darmstadt 98,38920,Cyril Thereau,78,80,73,68,53,80
+1,9986,SV Darmstadt 98,25751,Danijel Milicevic,76,77,76,38,29,77
+1,9986,SV Darmstadt 98,26264,Franck Signorino,75,38,86,73,79,74
+1,9986,SV Darmstadt 98,104389,Geoffrey Mujangi Bia,75,75,88,46,25,74
+1,9986,SV Darmstadt 98,13034,Michalis Sifakis,76,25,69,42,25,32
+1,9987,SV Darmstadt 98,148315,Christian Benteke,82,84,82,48,25,81
+1,9987,SV Darmstadt 98,25957,Igor de Camargo,76,76,76,73,41,78
+1,9987,SV Darmstadt 98,38782,Jelle Vossen,76,86,64,60,39,83
+1,9987,SV Darmstadt 98,210428,Kalidou Koulibaly,80,25,71,80,82,25
+1,9987,SV Darmstadt 98,195448,Kara Mbodji,78,45,74,80,78,54
+1,9987,SV Darmstadt 98,169200,Kevin de Bruyne,86,82,79,62,37,83
+1,9987,SV Darmstadt 98,38793,Logan Bailly,76,26,72,47,24,23
+1,9989,SV Darmstadt 98,20747,Eiji Kawashima,74,14,63,23,22,11
+1,9989,SV Darmstadt 98,426892,Hamari Traore,75,22,83,78,73,64
+1,9989,SV Darmstadt 98,40599,Joan Capdevila,80,77,82,84,83,83
+1,9989,SV Darmstadt 98,41137,Joseph Desire Job,74,72,76,64,33,68
+1,9989,SV Darmstadt 98,181069,Matz Sels,76,25,67,25,25,25
+1,9989,SV Darmstadt 98,32760,Milos Maric,76,66,76,74,67,74
+1,9991,SV Darmstadt 98,38229,Bryan Ruiz,82,85,75,70,45,84
+1,9991,SV Darmstadt 98,37440,Cesar Arzo,76,45,70,78,77,68
+1,9991,SV Darmstadt 98,25751,Danijel Milicevic,76,77,76,38,29,77
+1,9991,SV Darmstadt 98,38403,Jorge Lopez,79,78,78,79,66,74
+1,9991,SV Darmstadt 98,282671,Laurent Depoitre,76,76,67,32,25,76
+1,9991,SV Darmstadt 98,181069,Matz Sels,76,25,67,25,25,25
+1,9991,SV Darmstadt 98,38383,Mbark Boussoufa,82,75,85,76,44,77
+1,9991,SV Darmstadt 98,32760,Milos Maric,76,66,76,74,67,74
+1,9993,SV Darmstadt 98,38371,Bart Goor,77,77,74,80,61,75
+1,9993,SV Darmstadt 98,30910,Ivan Leko,75,71,64,78,63,74
+1,9993,SV Darmstadt 98,38792,Kevin Vandenbergh,73,83,70,58,25,83
+1,9993,SV Darmstadt 98,38794,Marvin Ogunjimi,73,74,82,48,27,82
+1,9993,SV Darmstadt 98,156693,Maxime Chanot,73,38,63,69,75,26
+1,9994,SV Darmstadt 98,129918,Alfred Finnbogason,76,86,72,25,28,86
+1,9994,SV Darmstadt 98,26040,Djamel Abdoun,75,69,77,43,54,71
+1,9994,SV Darmstadt 98,34370,Djiby Fall,75,84,88,54,30,80
+1,9994,SV Darmstadt 98,203666,Hans Vanaken,76,73,66,73,25,82
+1,9994,SV Darmstadt 98,30910,Ivan Leko,75,71,64,78,63,74
+1,9994,SV Darmstadt 98,32760,Milos Maric,76,66,76,74,67,74
+1,9996,SV Darmstadt 98,26916,Christophe Lepoint,71,69,69,71,66,76
+1,9996,SV Darmstadt 98,39878,Daan van Gijseghem,69,31,69,74,68,69
+1,9996,SV Darmstadt 98,166679,Guillaume Francois,67,58,83,64,68,59
+1,9996,SV Darmstadt 98,94289,Idir Ouali,67,67,91,58,50,57
+1,9996,SV Darmstadt 98,39890,Mark Volders,68,25,61,54,32,35
+1,9997,SV Darmstadt 98,149150,Denis Odoi,72,39,83,66,69,62
+1,9997,SV Darmstadt 98,37983,Koen Daerden,74,70,68,79,58,70
+1,9997,SV Darmstadt 98,37984,Mannaseh Ishiaku,73,76,76,50,33,75
+1,9997,SV Darmstadt 98,179365,May Mahlangu,73,60,86,66,61,78
+1,9997,SV Darmstadt 98,38382,Mohammed Tchite,77,80,92,49,20,82
+1,9998,SV Darmstadt 98,39145,Alesandro Cordaro,69,64,77,62,25,61
+1,9998,SV Darmstadt 98,17276,Aloys Nong,70,71,87,59,25,73
+1,9998,SV Darmstadt 98,39878,Daan van Gijseghem,69,31,69,74,68,69
+1,9998,SV Darmstadt 98,78902,Ebrahima Ibou Sawaneh,72,77,85,48,26,71
+1,9998,SV Darmstadt 98,17703,Jeremy Perbet,73,83,70,63,48,86
+1,9998,SV Darmstadt 98,38320,Kevin Oris,70,74,69,21,25,74
+1,9999,SV Darmstadt 98,32637,Abdessalam Benjelloun,72,74,81,52,22,57
+1,9999,SV Darmstadt 98,23997,Bjarni Vidarsson,69,58,69,62,56,65
+1,9999,SV Darmstadt 98,24037,Collins John,77,76,86,64,52,79
+1,9999,SV Darmstadt 98,129278,Holmar Oern Eyjolfsson,67,38,70,68,66,52
+1,9999,SV Darmstadt 98,163670,Ivan Perisic,82,81,83,68,36,83
+1,10000,SV Darmstadt 98,131531,Franck Berrier,74,67,73,74,45,72
+1,10000,SV Darmstadt 98,21726,Ibrahima Conte,73,54,88,48,38,68
+1,10000,SV Darmstadt 98,47564,James Troisi,73,72,82,61,25,74
+1,10000,SV Darmstadt 98,208984,Jonathan Delaplace,73,49,84,74,65,65
+1,10000,SV Darmstadt 98,354495,Junior Malanda-Adje,73,50,76,73,65,57
+1,10000,SV Darmstadt 98,121639,Moussa Maazou,74,79,92,47,21,82
+1,10001,SV Darmstadt 98,38371,Bart Goor,77,77,74,80,61,75
+1,10001,SV Darmstadt 98,42706,Benjamin De Ceulaer,73,76,84,63,35,78
+1,10001,SV Darmstadt 98,33683,Evander Sno,73,72,58,73,65,71
+1,10001,SV Darmstadt 98,27412,Filip Daems,75,45,76,83,81,74
+1,10001,SV Darmstadt 98,30404,Lukas Zelenka,79,77,79,78,57,79
+1729,10003,SV Darmstadt 98,95955,Andre Ayew,81,77,90,63,54,76
+1729,10003,SV Darmstadt 98,24948,Ashley Williams,81,41,70,83,77,71
+1729,10003,SV Darmstadt 98,26344,Bafetimbi Gomis,82,89,92,77,41,80
+1729,10003,SV Darmstadt 98,23286,Leroy Lita,80,86,91,68,28,77
+1729,10003,SV Darmstadt 98,37193,Michel Vorm,81,27,72,52,34,69
+1729,10003,SV Darmstadt 98,118528,Michu,80,84,70,75,57,85
+10257,10167,SV Darmstadt 98,38827,Amauri,85,90,82,81,43,85
+10257,10167,SV Darmstadt 98,11685,Antonio Candreva,83,75,87,76,58,78
+10257,10167,SV Darmstadt 98,32748,Antonio Cassano,86,87,83,80,25,86
+10257,10167,SV Darmstadt 98,39367,Antonio Nocerino,82,78,82,82,77,82
+10257,10167,SV Darmstadt 98,35561,Hernan Crespo,88,94,84,86,22,93
+1729,10172,SV Darmstadt 98,31907,Andrew Johnson,85,92,93,79,34,85
+1729,10172,SV Darmstadt 98,33418,Djibril Cisse,84,87,92,56,25,81
+1729,10172,SV Darmstadt 98,30802,Ji-Sung Park,82,76,84,76,80,85
+1729,10172,SV Darmstadt 98,25925,Jose Bosingwa,82,52,92,81,78,81
+1729,10172,SV Darmstadt 98,30989,Julio Cesar,89,25,76,76,25,86
+1729,10172,SV Darmstadt 98,39987,Loic Remy,83,84,91,72,23,81
+24558,10179,SV Darmstadt 98,26331,Adailton,75,55,68,63,78,78
+24558,10179,SV Darmstadt 98,42119,Gelson Fernandes,76,59,76,78,77,77
+24558,10179,SV Darmstadt 98,30721,Gennaro Gattuso,83,51,81,89,87,89
+24558,10179,SV Darmstadt 98,104389,Geoffrey Mujangi Bia,75,75,88,46,25,74
+24558,10179,SV Darmstadt 98,79246,Giovanni Sio,76,80,92,33,34,76
+7809,10189,SV Darmstadt 98,30649,Christoph Metzelder,87,35,79,85,91,83
+7809,10189,SV Darmstadt 98,25773,Ivan Rakitic,85,82,75,73,52,80
+7809,10189,SV Darmstadt 98,27335,Kevin-Prince Boateng,85,80,82,77,72,82
+7809,10189,SV Darmstadt 98,36784,Klaas Jan Huntelaar,85,95,78,84,43,92
+7809,10189,SV Darmstadt 98,27299,Manuel Neuer,90,25,58,50,25,39
+7809,10189,SV Darmstadt 98,27301,Marcelo Jose Bordon,88,37,68,84,88,87
+7809,10189,SV Darmstadt 98,30704,Mladen Krstajic,85,58,73,82,85,85
+24558,10190,SV Darmstadt 98,41718,Alhassane Keita,76,85,85,53,25,77
+24558,10190,SV Darmstadt 98,18820,Ezequiel Scarione,76,76,76,42,29,75
+24558,10190,SV Darmstadt 98,95228,Fabian Frei,75,73,76,68,74,77
+24558,10190,SV Darmstadt 98,27545,Klemen Lavric,77,79,78,17,46,71
+24558,10190,SV Darmstadt 98,39559,Mario Frick,76,84,69,78,28,81
+24558,10191,SV Darmstadt 98,104646,Dario Lezcano,71,72,82,53,41,80
+24558,10191,SV Darmstadt 98,18820,Ezequiel Scarione,76,76,76,42,29,75
+24558,10191,SV Darmstadt 98,239287,Josef Martinez,74,68,91,25,25,77
+24558,10191,SV Darmstadt 98,114738,Luca Zuffi,76,68,72,70,55,64
+24558,10191,SV Darmstadt 98,25812,Marc Schneider,71,37,71,66,74,62
+24558,10191,SV Darmstadt 98,184610,Marco Rojas,71,69,91,40,25,69
+24558,10191,SV Darmstadt 98,30939,Mauro Lustrinelli,73,74,67,73,38,72
+24558,10192,SV Darmstadt 98,31672,Alexander Farnerud,75,62,74,81,56,80
+24558,10192,SV Darmstadt 98,108524,Ammar Jemal,75,25,68,69,72,59
+24558,10192,SV Darmstadt 98,30912,Christoph Spycher,75,46,74,71,79,76
+24558,10192,SV Darmstadt 98,23587,Felix Bastians,75,48,76,73,72,67
+24558,10192,SV Darmstadt 98,41116,Gilles Yapi,76,60,80,79,77,82
+24558,10192,SV Darmstadt 98,37554,Guillaume Hoarau,79,85,74,84,54,80
+24558,10192,SV Darmstadt 98,45174,Miralem Sulejmani,77,80,90,58,29,77
+1729,10194,SV Darmstadt 98,46518,Asmir Begovic,82,25,67,53,25,57
+1729,10194,SV Darmstadt 98,26434,Ibrahim Afellay,82,75,89,76,63,78
+1729,10194,SV Darmstadt 98,34601,Jermaine Pennant,82,61,90,69,31,71
+1729,10194,SV Darmstadt 98,26165,John Carew,83,81,86,79,22,87
+1729,10194,SV Darmstadt 98,38697,Jonathan Woodgate,82,37,79,77,81,79
+1729,10194,SV Darmstadt 98,23818,Matthew Upson,82,22,80,75,85,78
+24558,10199,SV Darmstadt 98,206679,Bryan Rabello,74,63,86,28,38,65
+24558,10199,SV Darmstadt 98,30919,Daniel Gygax,74,69,90,53,32,81
+24558,10199,SV Darmstadt 98,37558,Dimitar Rangelov,74,76,80,68,36,77
+24558,10199,SV Darmstadt 98,18820,Ezequiel Scarione,76,76,76,42,29,75
+24558,10199,SV Darmstadt 98,31427,Hakan Yakin,74,76,72,71,53,76
+21518,10205,SV Darmstadt 98,38362,Ariel Ibagaza,83,66,84,86,53,82
+21518,10205,SV Darmstadt 98,38433,Borja Valero,83,79,74,80,66,81
+21518,10205,SV Darmstadt 98,30752,Carlos Marchena,83,65,81,81,87,86
+21518,10205,SV Darmstadt 98,34952,Daniele Bonera,83,33,82,84,85,84
+21518,10205,SV Darmstadt 98,56678,Diego Godin,86,42,75,87,86,78
+21518,10205,SV Darmstadt 98,41466,Diego Lopez,84,25,56,66,25,25
+21518,10205,SV Darmstadt 98,38699,Giuseppe Rossi,85,90,87,78,46,88
+21518,10205,SV Darmstadt 98,30958,Marcos Senna,84,73,74,88,85,89
+17642,10211,SV Darmstadt 98,11743,Artur,74,69,77,54,51,72
+17642,10211,SV Darmstadt 98,22428,Cristiano,74,74,81,63,32,74
+17642,10211,SV Darmstadt 98,164228,Djamal Mahamat,75,66,69,78,75,68
+17642,10211,SV Darmstadt 98,37580,Javier Balboa,74,68,82,71,50,74
+17642,10211,SV Darmstadt 98,164229,Kanu,73,50,84,75,74,28
+17642,10212,SV Darmstadt 98,115798,Baba,76,76,82,76,43,84
+17642,10212,SV Darmstadt 98,209312,Danilo Dias,79,73,84,35,31,73
+17642,10212,SV Darmstadt 98,240235,Danilo Pereira,80,50,69,85,78,67
+17642,10212,SV Darmstadt 98,193322,Hyun-Jun Suk,77,77,76,48,25,77
+17642,10212,SV Darmstadt 98,171935,Kleber Pinheiro,77,81,76,31,27,80
+17642,10212,SV Darmstadt 98,426709,Moussa Marega,76,78,83,26,23,82
+17642,10213,SV Darmstadt 98,22139,Anselmo,69,72,74,60,32,71
+17642,10213,SV Darmstadt 98,181194,Celestino,66,33,69,60,62,57
+17642,10213,SV Darmstadt 98,150018,Daniel Kabir Mustafa,66,67,57,45,63,66
+17642,10213,SV Darmstadt 98,27573,Deme N'Diaye,66,67,83,62,25,60
+17642,10213,SV Darmstadt 98,150024,Fernando Alexandre,73,51,72,78,69,72
+17642,10213,SV Darmstadt 98,74633,Giancarlo,69,72,57,29,31,75
+17642,10213,SV Darmstadt 98,22126,Hugo Carreira,69,46,52,53,69,68
+17642,10214,SV Darmstadt 98,420224,Ali Ghazal,77,25,62,79,76,47
+17642,10214,SV Darmstadt 98,193322,Hyun-Jun Suk,77,77,76,48,25,77
+17642,10214,SV Darmstadt 98,150041,Maicon,80,40,79,82,83,72
+17642,10214,SV Darmstadt 98,39658,Manuel da Costa,77,28,69,74,78,66
+17642,10214,SV Darmstadt 98,40946,Marco Matias,77,78,89,37,26,80
+17642,10214,SV Darmstadt 98,191788,Mexer,78,63,73,79,81,74
+17642,10215,SV Darmstadt 98,40930,Adrien Silva,80,70,74,79,70,75
+17642,10215,SV Darmstadt 98,160627,Cedric Soares,78,57,83,76,77,71
+17642,10215,SV Darmstadt 98,474682,Djavan,75,37,80,72,72,70
+17642,10215,SV Darmstadt 98,150026,Eder,79,78,85,58,34,80
+17642,10215,SV Darmstadt 98,33800,Edinho,75,79,78,64,25,79
+17642,10215,SV Darmstadt 98,46265,Ibrahim Sissoko,75,64,85,32,25,64
+17642,10215,SV Darmstadt 98,96838,Lica,77,74,83,55,44,76
+13274,10217,SV Darmstadt 98,26484,Boy Waterman,73,40,62,45,25,52
+13274,10217,SV Darmstadt 98,5662,Dimitri Bulykin,73,82,70,65,47,84
+13274,10217,SV Darmstadt 98,38999,Euzebiusz Smolarek,76,77,88,78,45,79
+13274,10217,SV Darmstadt 98,188557,Jens Toornstra,75,72,71,66,55,75
+13274,10217,SV Darmstadt 98,97470,Lex Immers,73,73,71,63,57,82
+13274,10217,SV Darmstadt 98,110161,Michiel Kramer,74,82,68,32,29,80
+13274,10218,SV Darmstadt 98,37206,Gino Coutinho,71,25,56,48,25,46
+13274,10218,SV Darmstadt 98,209384,Jordy Clasie,78,56,78,81,64,68
+13274,10218,SV Darmstadt 98,37173,Luigi Bruins,70,70,66,74,49,68
+13274,10218,SV Darmstadt 98,180236,Marvin Zeegelaar,74,62,81,72,71,76
+13274,10218,SV Darmstadt 98,185554,Miquel Nelom,71,48,84,69,72,67
+13274,10219,SV Darmstadt 98,42706,Benjamin De Ceulaer,73,76,84,63,35,78
+13274,10219,SV Darmstadt 98,112119,Charlison Benschop,73,74,74,31,34,73
+13274,10219,SV Darmstadt 98,37684,Daniel de Ridder,73,69,78,70,51,76
+13274,10219,SV Darmstadt 98,78409,Derk Boerrigter,76,75,87,33,33,72
+13274,10219,SV Darmstadt 98,33683,Evander Sno,73,72,58,73,65,71
+13274,10219,SV Darmstadt 98,150236,Jeroen Zoet,79,25,61,62,25,58
+13274,10219,SV Darmstadt 98,37201,Michael Lamey,74,64,79,74,78,67
+13274,10228,SV Darmstadt 98,104045,Bas Dost,79,86,68,70,29,87
+13274,10228,SV Darmstadt 98,30896,Bonaventure Kalou,77,80,82,77,37,72
+13274,10228,SV Darmstadt 98,30477,Danijel Pranjic,78,80,79,76,67,73
+13274,10228,SV Darmstadt 98,104482,Daryl Janmaat,77,65,77,75,78,73
+13274,10228,SV Darmstadt 98,178538,Filip Djuricic,77,71,88,65,27,76
+13274,10228,SV Darmstadt 98,360559,Hakim Ziyech,78,73,75,59,52,74
+13274,10228,SV Darmstadt 98,158581,Luciano Narsingh,77,71,95,49,39,73
+13274,10229,SV Darmstadt 98,70812,Hector Moreno,79,62,78,79,82,72
+13274,10229,SV Darmstadt 98,42598,Jeremain Lens,79,76,86,65,29,75
+13274,10229,SV Darmstadt 98,128732,Jonathas,79,84,75,58,33,83
+13274,10229,SV Darmstadt 98,35497,Mounir El Hamdaoui,81,88,85,72,35,85
+13274,10229,SV Darmstadt 98,41008,Moussa Dembele,81,80,85,77,65,75
+10257,10233,SV Darmstadt 98,30881,Alberto Gilardino,85,93,83,78,28,95
+10257,10233,SV Darmstadt 98,30549,Diego Milito,86,93,87,79,30,92
+10257,10233,SV Darmstadt 98,35561,Hernan Crespo,88,94,84,86,22,93
+10257,10233,SV Darmstadt 98,26098,Kakha Kaladze,86,34,72,82,91,80
+10257,10233,SV Darmstadt 98,30709,Luca Toni,89,96,76,81,25,95
+13274,10235,SV Darmstadt 98,37139,Dirk Kuyt,84,90,82,80,66,86
+13274,10235,SV Darmstadt 98,30654,Giovanni van Bronckhorst,81,73,88,87,84,85
+13274,10235,SV Darmstadt 98,27327,Jon Dahl Tomasson,83,87,80,85,42,85
+13274,10235,SV Darmstadt 98,30596,Kevin Hofland,81,38,63,70,84,81
+13274,10235,SV Darmstadt 98,37401,Khalid Boulahrouz,83,25,77,75,84,72
+17642,10238,SV Darmstadt 98,37483,Albert Meyong Ze,79,82,79,71,44,78
+17642,10238,SV Darmstadt 98,93484,Aly Cissokho,79,56,86,81,80,78
+17642,10238,SV Darmstadt 98,38241,Helder Barbosa,78,73,86,66,43,76
+17642,10238,SV Darmstadt 98,300916,Joao Mario,80,72,75,77,69,80
+17642,10238,SV Darmstadt 98,29177,Leandrinho,78,72,86,75,52,76
+4769,10242,SV Darmstadt 98,148314,Anele Ngcongca,74,49,79,72,74,62
+4769,10242,SV Darmstadt 98,26420,Benjamin Nivet,76,75,76,74,56,83
+4769,10242,SV Darmstadt 98,38435,Fabien Camus,74,68,79,64,61,74
+4769,10242,SV Darmstadt 98,36123,Jeremie Brechet,75,41,71,72,77,63
+4769,10242,SV Darmstadt 98,26354,Mouhamadou Dabo,77,39,82,75,78,78
+4769,10242,SV Darmstadt 98,41332,Mounir Obbadi,74,65,71,75,68,68
+24558,10243,SV Darmstadt 98,132844,Admir Mehmedi,77,77,75,42,29,77
+24558,10243,SV Darmstadt 98,3517,Alexandr Kerzhakov,82,86,88,79,41,87
+24558,10243,SV Darmstadt 98,41717,Hannu Tihinen,79,57,70,83,81,82
+24558,10243,SV Darmstadt 98,33681,Johan Vonlanthen,78,75,80,83,34,77
+24558,10243,SV Darmstadt 98,194533,Josip Drmic,77,81,78,35,36,80
+4769,10249,SV Darmstadt 98,40659,Anthony Mounier,79,75,91,74,41,76
+4769,10249,SV Darmstadt 98,26255,Emir Spahic,79,72,73,82,82,75
+4769,10249,SV Darmstadt 98,26138,Hilton,81,52,70,85,85,88
+4769,10249,SV Darmstadt 98,25543,John Utaka,81,80,87,72,25,77
+4769,10249,SV Darmstadt 98,18576,Lucas Barrios,83,87,84,67,43,88
+4769,10249,SV Darmstadt 98,93985,Mapou Yanga-Mbiwa,79,32,78,78,83,54
+19694,10251,SV Darmstadt 98,38614,Anthony Stokes,77,83,80,68,34,82
+19694,10251,SV Darmstadt 98,39660,Derek Riordan,79,84,80,74,29,75
+19694,10251,SV Darmstadt 98,26559,Garry O'Connor,77,80,73,62,50,76
+19694,10251,SV Darmstadt 98,32618,Kevin Thomson,77,66,73,74,71,79
+19694,10251,SV Darmstadt 98,32410,Michael Hart,76,35,82,63,74,60
+1729,10252,SV Darmstadt 98,23354,Ashley Young,85,78,93,66,43,77
+1729,10252,SV Darmstadt 98,23949,Darren Bent,85,90,94,77,31,88
+1729,10252,SV Darmstadt 98,23264,Gabriel Agbonlahor,83,86,96,76,57,78
+1729,10252,SV Darmstadt 98,23782,Gareth Barry,84,73,71,86,80,87
+1729,10252,SV Darmstadt 98,30630,Joe Cole,87,81,87,76,56,81
+1729,10252,SV Darmstadt 98,26165,John Carew,83,81,86,79,22,87
+1729,10252,SV Darmstadt 98,24208,Micah Richards,83,55,86,82,79,76
+1729,10260,Carpi,30872,Bastian Schweinsteiger,88,82,68,86,69,84
+1729,10260,Carpi,38817,Carlos Tevez,88,92,90,77,61,91
+1729,10260,Carpi,30893,Cristiano Ronaldo,93,95,95,75,27,93
+1729,10260,Carpi,182917,David De Gea,87,25,51,30,25,25
+1729,10260,Carpi,30726,Edwin van der Sar,87,20,57,78,20,64
+1729,10260,Carpi,41468,Juan Mata,87,83,87,80,65,87
+1729,10261,Carpi,38373,Cheik Tiote,82,62,79,83,81,82
+1729,10261,Carpi,35411,Demba Ba,82,85,85,66,42,84
+1729,10261,Carpi,26163,Hatem Ben Arfa,82,82,86,78,33,80
+1729,10261,Carpi,38807,James Milner,82,73,86,77,70,77
+1729,10261,Carpi,39987,Loic Remy,83,84,91,72,23,81
+1729,10261,Carpi,30623,Mark Viduka,82,87,78,77,23,80
+1729,10261,Carpi,30619,Michael Owen,86,93,92,87,32,94
+17642,10264,Carpi,361710,Aderlan Santos,80,34,55,80,84,27
+17642,10264,Carpi,19344,Artur,82,25,55,28,25,25
+17642,10264,Carpi,97498,Beto,81,25,60,54,25,35
+17642,10264,Carpi,43283,Eduardo,80,25,46,45,21,35
+17642,10264,Carpi,25990,Joao Pereira,80,65,87,78,77,79
+17642,10264,Carpi,78544,Lima,80,82,79,68,45,82
+15722,10265,Carpi,30879,Kew Jaliens,74,49,72,82,79,72
+15722,10265,Carpi,39069,Lukasz Gargula,74,66,71,61,34,86
+15722,10265,Carpi,14521,Maor Melikson,76,68,94,42,53,76
+15722,10265,Carpi,78908,Marcelo,75,52,74,72,78,54
+15722,10265,Carpi,30278,Marek Zienczuk,74,76,66,44,61,72
+15722,10265,Carpi,37201,Michael Lamey,74,64,79,74,78,67
+21518,10267,Carpi,77741,Adil Rami,84,47,68,83,85,74
+21518,10267,Carpi,75310,Alvaro Negredo,84,86,81,82,36,86
+21518,10267,Carpi,37459,David Silva,88,90,87,85,66,85
+21518,10267,Carpi,30909,David Villa,89,94,88,87,42,93
+21518,10267,Carpi,37824,Joaquin,88,74,89,78,60,82
+21518,10267,Carpi,150739,Jordi Alba,84,76,93,82,79,77
+21518,10267,Carpi,41468,Juan Mata,87,83,87,80,65,87
+21518,10268,Carpi,107929,Alberto Botia,77,56,69,77,78,75
+21518,10268,Carpi,56972,Carlos Sanchez,77,47,75,78,65,67
+21518,10268,Carpi,12766,Cristian Sapunaru,77,60,78,81,80,77
+21518,10268,Carpi,80492,Javi Moreno Marquez,78,66,72,75,66,75
+21518,10268,Carpi,128732,Jonathas,79,84,75,58,33,83
+21518,10268,Carpi,37474,Manu del Moral,78,82,82,76,25,81
+7809,10269,Carpi,26169,Aleksandr Hleb,84,74,83,77,38,84
+7809,10269,Carpi,30648,Jens Lehmann,88,21,57,81,21,58
+7809,10269,Carpi,37401,Khalid Boulahrouz,83,25,77,75,84,72
+7809,10269,Carpi,27326,Mario Gomez,87,92,84,73,28,91
+7809,10269,Carpi,41888,Mauro Camoranesi,86,79,83,84,74,86
+21518,10278,Carpi,24385,Abel Aguilar,77,70,69,81,68,82
+21518,10278,Carpi,30728,David Trezeguet,90,94,84,90,22,92
+21518,10278,Carpi,37455,Francisco Rufete,77,74,78,73,66,72
+21518,10278,Carpi,37497,Javier Portillo,80,85,82,80,37,78
+21518,10278,Carpi,37511,Juan Jesus Calatayud,76,22,76,57,32,32
+21518,10281,Carpi,33820,Angel Manuel Vivar Dorado,79,67,72,80,46,76
+21518,10281,Carpi,34575,Asier del Horno,80,70,84,80,83,81
+21518,10281,Carpi,19243,Diego Costa,86,90,83,69,28,89
+21518,10281,Carpi,47566,Fabri,78,25,66,55,25,60
+21518,10281,Carpi,37507,Hector Font,78,71,74,76,67,73
+21518,10281,Carpi,154938,Mikel Balenziaga,79,42,80,79,79,61
+4769,108893,Lugano,33850,Angelos Basinas,78,70,73,78,79,74
+4769,108893,Lugano,38810,Angelos Charisteas,78,75,74,71,66,79
+4769,108893,Lugano,32566,Camel Meriem,79,64,73,48,29,68
+4769,108893,Lugano,25664,Dianbobo Balde,78,22,57,69,76,64
+4769,108893,Lugano,41464,Francisco Pavon,83,43,80,75,87,74
+17642,158085,Lugano,11743,Artur,74,69,77,54,51,72
+17642,158085,Lugano,19515,Cassio,74,25,42,46,25,25
+17642,158085,Lugano,115512,David Simao,74,64,71,60,54,70
+17642,158085,Lugano,361321,Iuri Medeiros,75,70,87,30,25,76
+17642,158085,Lugano,114651,Mateus,74,71,92,61,43,73
+17642,158085,Lugano,206711,Mauro Goicoechea,74,25,47,23,25,25
+15722,177361,Lugano,68786,Bartlomiej Babiarz,66,50,80,67,66,64
+15722,177361,Lugano,13538,Dawid Plizga,68,68,86,63,33,72
+15722,177361,Lugano,69628,Jakub Biskup,63,58,74,24,37,62
+15722,177361,Lugano,13436,Krzysztof Pilarz,67,30,57,52,30,25
+15722,177361,Lugano,35444,Mario Licka,71,69,77,59,48,74
+15722,177361,Lugano,115068,Martin Juhar,63,59,65,52,65,59
+17642,188163,Lugano,211780,Bruno Nascimento,71,42,67,68,69,30
+17642,188163,Lugano,361340,Cristian Amado,69,67,82,39,21,74
+17642,188163,Lugano,38536,Enaut Zubikarai,71,20,62,59,20,20
+17642,188163,Lugano,207517,Erick Moreno,69,69,67,39,24,74
+17642,188163,Lugano,45352,Kaka,70,28,72,71,75,71
+17642,188163,Lugano,128045,Luis Alberto,75,68,73,77,71,74
+17642,188163,Lugano,43008,Markus Berger,69,49,69,69,68,67
+17642,188163,Lugano,186705,Matthew Jones,69,25,41,21,25,25
+10257,208931,Lugano,41404,Andrea Lazzari,76,72,81,74,60,77
+10257,208931,Lugano,30906,Cristian Zaccardo,81,69,91,84,83,82
+10257,208931,Lugano,202341,Gabriel Silva,75,62,79,73,72,69
+10257,208931,Lugano,24123,Jonathan De Guzman,78,76,82,72,70,76
+10257,208931,Lugano,39447,Marco Borriello,82,88,82,83,55,86
+1,274581,Lugano,201915,Abdoulaye Diaby,73,80,90,46,43,78
+1,274581,Lugano,265727,Alexandre Coeff,71,54,61,75,68,60
+1,274581,Lugano,104411,David Hubert,70,39,68,76,67,64
+1,274581,Lugano,148329,Elimane Coulibaly,69,74,68,48,55,74
+1,274581,Lugano,364290,Julian Michel,69,51,56,67,52,59
+1,274581,Lugano,418105,Kevin Vandendriessche,69,64,67,68,59,74
+1,274581,Lugano,213487,Marko Scepovic,69,72,68,31,31,73

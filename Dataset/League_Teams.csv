@@ -1,0 +1,300 @@
+league_id,name,team_id,team_long_name
+1,"Belgium Jupiler League",9987,"KRC Genk"
+1,"Belgium Jupiler League",9993,"Beerschot AC"
+1,"Belgium Jupiler League",10000,"SV Zulte-Waregem"
+1,"Belgium Jupiler League",9994,"Sporting Lokeren"
+1,"Belgium Jupiler League",9984,"KSV Cercle Brugge"
+1,"Belgium Jupiler League",8635,"RSC Anderlecht"
+1,"Belgium Jupiler League",9991,"KAA Gent"
+1,"Belgium Jupiler League",9998,"RAEC Mons"
+1,"Belgium Jupiler League",7947,"FCV Dender EH"
+1,"Belgium Jupiler League",9985,"Standard de Li√®ge"
+1,"Belgium Jupiler League",8203,"KV Mechelen"
+1,"Belgium Jupiler League",8342,"Club Brugge KV"
+1,"Belgium Jupiler League",9999,"KSV Roeselare"
+1,"Belgium Jupiler League",8571,"KV Kortrijk"
+1,"Belgium Jupiler League",4049,Tubize
+1,"Belgium Jupiler League",9996,"Royal Excel Mouscron"
+1,"Belgium Jupiler League",10001,"KVC Westerlo"
+1,"Belgium Jupiler League",9986,"Sporting Charleroi"
+1,"Belgium Jupiler League",9997,"Sint-Truidense VV"
+1,"Belgium Jupiler League",9989,"Lierse SK"
+1,"Belgium Jupiler League",6351,"KAS Eupen"
+1,"Belgium Jupiler League",1773,"Oud-Heverlee Leuven"
+1,"Belgium Jupiler League",8475,Waasland-Beveren
+1,"Belgium Jupiler League",8573,"KV Oostende"
+1,"Belgium Jupiler League",274581,"Royal Excel Mouscron"
+1729,"England Premier League",10260,"Manchester United"
+1729,"England Premier League",10261,"Newcastle United"
+1729,"England Premier League",9825,Arsenal
+1729,"England Premier League",8659,"West Bromwich Albion"
+1729,"England Premier League",8472,Sunderland
+1729,"England Premier League",8650,Liverpool
+1729,"England Premier League",8654,"West Ham United"
+1729,"England Premier League",8528,"Wigan Athletic"
+1729,"England Premier League",10252,"Aston Villa"
+1729,"England Premier League",8456,"Manchester City"
+1729,"England Premier League",8668,Everton
+1729,"England Premier League",8655,"Blackburn Rovers"
+1729,"England Premier League",8549,Middlesbrough
+1729,"England Premier League",8586,"Tottenham Hotspur"
+1729,"England Premier League",8559,"Bolton Wanderers"
+1729,"England Premier League",10194,"Stoke City"
+1729,"England Premier League",8667,"Hull City"
+1729,"England Premier League",9879,Fulham
+1729,"England Premier League",8455,Chelsea
+1729,"England Premier League",8462,Portsmouth
+1729,"England Premier League",8658,"Birmingham City"
+1729,"England Premier League",8602,"Wolverhampton Wanderers"
+1729,"England Premier League",8191,Burnley
+1729,"England Premier League",8483,Blackpool
+1729,"England Premier League",10003,"Swansea City"
+1729,"England Premier League",10172,"Queens Park Rangers"
+1729,"England Premier League",9850,"Norwich City"
+1729,"England Premier League",8466,Southampton
+1729,"England Premier League",9798,Reading
+1729,"England Premier League",9826,"Crystal Palace"
+1729,"England Premier League",8344,"Cardiff City"
+1729,"England Premier League",8197,"Leicester City"
+1729,"England Premier League",8678,Bournemouth
+1729,"England Premier League",9817,Watford
+4769,"France Ligue 1",8583,"AJ Auxerre"
+4769,"France Ligue 1",9830,"FC Nantes"
+4769,"France Ligue 1",9827,"Girondins de Bordeaux"
+4769,"France Ligue 1",7819,"SM Caen"
+4769,"France Ligue 1",9746,"Le Havre AC"
+4769,"France Ligue 1",9831,"OGC Nice"
+4769,"France Ligue 1",8682,"Le Mans FC"
+4769,"France Ligue 1",8689,"FC Lorient"
+4769,"France Ligue 1",9748,"Olympique Lyonnais"
+4769,"France Ligue 1",9941,"Toulouse FC"
+4769,"France Ligue 1",9829,"AS Monaco"
+4769,"France Ligue 1",9847,"Paris Saint-Germain"
+4769,"France Ligue 1",8481,"AS Nancy-Lorraine"
+4769,"France Ligue 1",8639,"LOSC Lille"
+4769,"France Ligue 1",9851,"Stade Rennais FC"
+4769,"France Ligue 1",8592,"Olympique de Marseille"
+4769,"France Ligue 1",9874,"FC Sochaux-Montb√©liard"
+4769,"France Ligue 1",9855,"Grenoble Foot 38"
+4769,"France Ligue 1",9873,"Valenciennes FC"
+4769,"France Ligue 1",9853,"AS Saint-√âtienne"
+4769,"France Ligue 1",8588,"RC Lens"
+4769,"France Ligue 1",10249,"Montpellier H√©rault SC"
+4769,"France Ligue 1",4170,"US Boulogne Cote D'Opale"
+4769,"France Ligue 1",108893,"AC Arles-Avignon"
+4769,"France Ligue 1",8521,"Stade Brestois 29"
+4769,"France Ligue 1",8576,"AC Ajaccio"
+4769,"France Ligue 1",4087,"√âvian Thonon Gaillard FC"
+4769,"France Ligue 1",9836,"Dijon FCO"
+4769,"France Ligue 1",9837,"Stade de Reims"
+4769,"France Ligue 1",7794,"SC Bastia"
+4769,"France Ligue 1",10242,"ES Troyes AC"
+4769,"France Ligue 1",9747,"En Avant de Guingamp"
+4769,"France Ligue 1",8550,"FC Metz"
+4769,"France Ligue 1",8121,"Angers SCO"
+4769,"France Ligue 1",6391,"GFC Ajaccio"
+7809,"Germany 1. Bundesliga",9823,"FC Bayern Munich"
+7809,"Germany 1. Bundesliga",9790,"Hamburger SV"
+7809,"Germany 1. Bundesliga",8178,"Bayer 04 Leverkusen"
+7809,"Germany 1. Bundesliga",9789,"Borussia Dortmund"
+7809,"Germany 1. Bundesliga",10189,"FC Schalke 04"
+7809,"Germany 1. Bundesliga",9904,"Hannover 96"
+7809,"Germany 1. Bundesliga",8721,"VfL Wolfsburg"
+7809,"Germany 1. Bundesliga",8722,"1. FC K√∂ln"
+7809,"Germany 1. Bundesliga",9810,"Eintracht Frankfurt"
+7809,"Germany 1. Bundesliga",8177,"Hertha BSC Berlin"
+7809,"Germany 1. Bundesliga",9912,"DSC Arminia Bielefeld"
+7809,"Germany 1. Bundesliga",8697,"SV Werder Bremen"
+7809,"Germany 1. Bundesliga",8398,"FC Energie Cottbus"
+7809,"Germany 1. Bundesliga",8226,"TSG 1899 Hoffenheim"
+7809,"Germany 1. Bundesliga",9788,"Borussia M√∂nchengladbach"
+7809,"Germany 1. Bundesliga",10269,"VfB Stuttgart"
+7809,"Germany 1. Bundesliga",8295,"Karlsruher SC"
+7809,"Germany 1. Bundesliga",9911,"VfL Bochum"
+7809,"Germany 1. Bundesliga",8358,"SC Freiburg"
+7809,"Germany 1. Bundesliga",8165,"1. FC N√ºrnberg"
+7809,"Germany 1. Bundesliga",9905,"1. FSV Mainz 05"
+7809,"Germany 1. Bundesliga",8350,"1. FC Kaiserslautern"
+7809,"Germany 1. Bundesliga",8152,"FC St. Pauli"
+7809,"Germany 1. Bundesliga",8406,"FC Augsburg"
+7809,"Germany 1. Bundesliga",8194,"Fortuna D√ºsseldorf"
+7809,"Germany 1. Bundesliga",8357,"SpVgg Greuther F√ºrth"
+7809,"Germany 1. Bundesliga",9776,"Eintracht Braunschweig"
+7809,"Germany 1. Bundesliga",8460,"SC Paderborn 07"
+7809,"Germany 1. Bundesliga",8234,"FC Ingolstadt 04"
+7809,"Germany 1. Bundesliga",8262,"SV Darmstadt 98"
+10257,"Italy Serie A",8524,Atalanta
+10257,"Italy Serie A",8551,Siena
+10257,"Italy Serie A",8529,Cagliari
+10257,"Italy Serie A",8543,Lazio
+10257,"Italy Serie A",8530,Catania
+10257,"Italy Serie A",10233,Genoa
+10257,"Italy Serie A",8533,"Chievo Verona"
+10257,"Italy Serie A",8690,"Reggio Calabria"
+10257,"Italy Serie A",8535,Fiorentina
+10257,"Italy Serie A",9885,Juventus
+10257,"Italy Serie A",8564,Milan
+10257,"Italy Serie A",9857,Bologna
+10257,"Italy Serie A",8686,Roma
+10257,"Italy Serie A",9875,Napoli
+10257,"Italy Serie A",9882,Sampdoria
+10257,"Italy Serie A",8636,Inter
+10257,"Italy Serie A",9804,Torino
+10257,"Italy Serie A",9888,Lecce
+10257,"Italy Serie A",8600,Udinese
+10257,"Italy Serie A",8540,Palermo
+10257,"Italy Serie A",9976,Bari
+10257,"Italy Serie A",8537,Livorno
+10257,"Italy Serie A",10167,Parma
+10257,"Italy Serie A",9880,Cesena
+10257,"Italy Serie A",9858,Brescia
+10257,"Italy Serie A",6269,Novara
+10257,"Italy Serie A",9878,Pescara
+10257,"Italy Serie A",9876,"Hellas Verona"
+10257,"Italy Serie A",7943,Sassuolo
+10257,"Italy Serie A",8534,Empoli
+10257,"Italy Serie A",9891,Frosinone
+10257,"Italy Serie A",208931,Carpi
+13274,"Netherlands Eredivisie",8277,Vitesse
+13274,"Netherlands Eredivisie",8674,"FC Groningen"
+13274,"Netherlands Eredivisie",9803,"Roda JC Kerkrade"
+13274,"Netherlands Eredivisie",8611,"FC Twente"
+13274,"Netherlands Eredivisie",8525,"Willem II"
+13274,"Netherlands Eredivisie",8593,Ajax
+13274,"Netherlands Eredivisie",8464,N.E.C.
+13274,"Netherlands Eredivisie",8526,"De Graafschap"
+13274,"Netherlands Eredivisie",9908,"FC Utrecht"
+13274,"Netherlands Eredivisie",8640,PSV
+13274,"Netherlands Eredivisie",9791,"Heracles Almelo"
+13274,"Netherlands Eredivisie",10235,Feyenoord
+13274,"Netherlands Eredivisie",8614,"Sparta Rotterdam"
+13274,"Netherlands Eredivisie",10217,"ADO Den Haag"
+13274,"Netherlands Eredivisie",6601,"FC Volendam"
+13274,"Netherlands Eredivisie",10228,"SC Heerenveen"
+13274,"Netherlands Eredivisie",10229,AZ
+13274,"Netherlands Eredivisie",9761,"NAC Breda"
+13274,"Netherlands Eredivisie",10219,"RKC Waalwijk"
+13274,"Netherlands Eredivisie",9839,VVV-Venlo
+13274,"Netherlands Eredivisie",10218,Excelsior
+13274,"Netherlands Eredivisie",6413,"PEC Zwolle"
+13274,"Netherlands Eredivisie",7788,"SC Cambuur"
+13274,"Netherlands Eredivisie",6433,"Go Ahead Eagles"
+13274,"Netherlands Eredivisie",6631,"FC Dordrecht"
+15722,"Poland Ekstraklasa",10265,"Wis≈Ça Krak√≥w"
+15722,"Poland Ekstraklasa",8031,"Polonia Bytom"
+15722,"Poland Ekstraklasa",8020,"Polonia Bytom"
+15722,"Poland Ekstraklasa",1601,"Ruch Chorz√≥w"
+15722,"Poland Ekstraklasa",8673,"Legia Warszawa"
+15722,"Poland Ekstraklasa",2183,"P. Warszawa"
+15722,"Poland Ekstraklasa",8025,"≈ölƒÖsk Wroc≈Çaw"
+15722,"Poland Ekstraklasa",8030,"Lechia Gda≈Ñsk"
+15722,"Poland Ekstraklasa",8244,"Widzew ≈Å√≥d≈∫"
+15722,"Poland Ekstraklasa",8242,"Odra Wodzis≈Çaw"
+15722,"Poland Ekstraklasa",2182,"Lech Pozna≈Ñ"
+15722,"Poland Ekstraklasa",8569,"GKS Be≈Çchat√≥w"
+15722,"Poland Ekstraklasa",8322,"Arka Gdynia"
+15722,"Poland Ekstraklasa",1957,"Jagiellonia Bia≈Çystok"
+15722,"Poland Ekstraklasa",8028,"Piast Gliwice"
+15722,"Poland Ekstraklasa",2186,Cracovia
+15722,"Poland Ekstraklasa",8245,"Korona Kielce"
+15722,"Poland Ekstraklasa",8021,"Zag≈Çƒôbie Lubin"
+15722,"Poland Ekstraklasa",8024,"Widzew ≈Å√≥d≈∫"
+15722,"Poland Ekstraklasa",8033,"Podbeskidzie Bielsko-Bia≈Ça"
+15722,"Poland Ekstraklasa",8023,"Pogo≈Ñ Szczecin"
+15722,"Poland Ekstraklasa",8027,"Zawisza Bydgoszcz"
+15722,"Poland Ekstraklasa",8019,"G√≥rnik ≈Åƒôczna"
+15722,"Poland Ekstraklasa",177361,"Termalica Bruk-Bet Nieciecza"
+17642,"Portugal Liga ZON Sagres",9773,"FC Porto"
+17642,"Portugal Liga ZON Sagres",9807,"CF Os Belenenses"
+17642,"Portugal Liga ZON Sagres",9768,"Sporting CP"
+17642,"Portugal Liga ZON Sagres",7992,Trofense
+17642,"Portugal Liga ZON Sagres",7844,"Vit√≥ria Guimar√£es"
+17642,"Portugal Liga ZON Sagres",10238,"Vit√≥ria Set√∫bal"
+17642,"Portugal Liga ZON Sagres",6403,"FC Pa√ßos de Ferreira"
+17642,"Portugal Liga ZON Sagres",10264,"SC Braga"
+17642,"Portugal Liga ZON Sagres",10213,Amadora
+17642,"Portugal Liga ZON Sagres",10215,"Acad√©mica de Coimbra"
+17642,"Portugal Liga ZON Sagres",7841,"Rio Ave FC"
+17642,"Portugal Liga ZON Sagres",9772,"SL Benfica"
+17642,"Portugal Liga ZON Sagres",6421,"Leix√µes SC"
+17642,"Portugal Liga ZON Sagres",10214,"CD Nacional"
+17642,"Portugal Liga ZON Sagres",9809,"Naval 1¬∞ de Maio"
+17642,"Portugal Liga ZON Sagres",10212,"CS Mar√≠timo"
+17642,"Portugal Liga ZON Sagres",9771,"Uni√£o de Leiria, SAD"
+17642,"Portugal Liga ZON Sagres",2033,"S.C. Olhanense"
+17642,"Portugal Liga ZON Sagres",9765,Portimonense
+17642,"Portugal Liga ZON Sagres",10211,"SC Beira Mar"
+17642,"Portugal Liga ZON Sagres",4064,Feirense
+17642,"Portugal Liga ZON Sagres",9764,"Gil Vicente FC"
+17642,"Portugal Liga ZON Sagres",8348,"Moreirense FC"
+17642,"Portugal Liga ZON Sagres",7842,"Estoril Praia"
+17642,"Portugal Liga ZON Sagres",158085,"FC Arouca"
+17642,"Portugal Liga ZON Sagres",6547,"FC Penafiel"
+17642,"Portugal Liga ZON Sagres",8613,"Boavista FC"
+17642,"Portugal Liga ZON Sagres",6367,"Uniao da Madeira"
+17642,"Portugal Liga ZON Sagres",188163,Tondela
+19694,"Scotland Premier League",8596,Falkirk
+19694,"Scotland Premier League",8548,Rangers
+19694,"Scotland Premier League",9860,"Heart of Midlothian"
+19694,"Scotland Premier League",9927,Motherwell
+19694,"Scotland Premier League",8597,Kilmarnock
+19694,"Scotland Premier League",10251,Hibernian
+19694,"Scotland Premier League",8485,Aberdeen
+19694,"Scotland Premier League",8066,"Inverness Caledonian Thistle"
+19694,"Scotland Premier League",9925,Celtic
+19694,"Scotland Premier League",9800,"St. Mirren"
+19694,"Scotland Premier League",8429,"Hamilton Academical FC"
+19694,"Scotland Premier League",9938,"Dundee United"
+19694,"Scotland Premier League",8467,"St. Johnstone FC"
+19694,"Scotland Premier League",8457,"Dunfermline Athletic"
+19694,"Scotland Premier League",8284,"Dundee FC"
+19694,"Scotland Premier League",8649,"Ross County FC"
+19694,"Scotland Premier League",8426,"Partick Thistle F.C."
+21518,"Spain LIGA BBVA",10267,"Valencia CF"
+21518,"Spain LIGA BBVA",8661,"RCD Mallorca"
+21518,"Spain LIGA BBVA",8371,"CA Osasuna"
+21518,"Spain LIGA BBVA",10205,"Villarreal CF"
+21518,"Spain LIGA BBVA",9783,"RC Deportivo de La Coru√±a"
+21518,"Spain LIGA BBVA",8633,"Real Madrid CF"
+21518,"Spain LIGA BBVA",8388,"CD Numancia"
+21518,"Spain LIGA BBVA",8634,"FC Barcelona"
+21518,"Spain LIGA BBVA",8696,"Racing Santander"
+21518,"Spain LIGA BBVA",8302,"Sevilla FC"
+21518,"Spain LIGA BBVA",9869,"Real Sporting de Gij√≥n"
+21518,"Spain LIGA BBVA",8305,"Getafe CF"
+21518,"Spain LIGA BBVA",8603,"Real Betis Balompi√©"
+21518,"Spain LIGA BBVA",8479,"RC Recreativo"
+21518,"Spain LIGA BBVA",8558,"RCD Espanyol"
+21518,"Spain LIGA BBVA",10281,"Real Valladolid"
+21518,"Spain LIGA BBVA",8315,"Athletic Club de Bilbao"
+21518,"Spain LIGA BBVA",9865,"UD Almer√≠a"
+21518,"Spain LIGA BBVA",9906,"Atl√©tico Madrid"
+21518,"Spain LIGA BBVA",9864,"M√°laga CF"
+21518,"Spain LIGA BBVA",9868,"Xerez Club Deportivo"
+21518,"Spain LIGA BBVA",8394,"Real Zaragoza"
+21518,"Spain LIGA BBVA",9867,"CD Tenerife"
+21518,"Spain LIGA BBVA",10278,"H√©rcules Club de F√∫tbol"
+21518,"Spain LIGA BBVA",8581,"Levante UD"
+21518,"Spain LIGA BBVA",8560,"Real Sociedad"
+21518,"Spain LIGA BBVA",7878,"Granada CF"
+21518,"Spain LIGA BBVA",8370,"Rayo Vallecano"
+21518,"Spain LIGA BBVA",9910,"RC Celta de Vigo"
+21518,"Spain LIGA BBVA",10268,"Elche CF"
+21518,"Spain LIGA BBVA",8372,"SD Eibar"
+21518,"Spain LIGA BBVA",7869,"C√≥rdoba CF"
+21518,"Spain LIGA BBVA",8306,"UD Las Palmas"
+24558,"Switzerland Super League",9956,"Grasshopper Club Z√ºrich"
+24558,"Switzerland Super League",6493,"AC Bellinzona"
+24558,"Switzerland Super League",10192,"BSC Young Boys"
+24558,"Switzerland Super League",9931,"FC Basel"
+24558,"Switzerland Super League",9930,"FC Aarau"
+24558,"Switzerland Super League",10179,"FC Sion"
+24558,"Switzerland Super League",10199,"FC Luzern"
+24558,"Switzerland Super League",9824,"FC Vaduz"
+24558,"Switzerland Super League",7955,"Neuch√¢tel Xamax"
+24558,"Switzerland Super League",10243,"FC Z√ºrich"
+24558,"Switzerland Super League",10190,"FC St. Gallen"
+24558,"Switzerland Super League",10191,"FC Thun"
+24558,"Switzerland Super League",9777,"Servette FC"
+24558,"Switzerland Super League",7730,"FC Lausanne-Sports"
+24558,"Switzerland Super League",7896,Lugano
